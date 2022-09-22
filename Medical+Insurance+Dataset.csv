@@ -1,0 +1,2012 @@
+Policy_Num,Mobile_num,Renewal,Age,City_Tier,Riders,Education,Gender,Overall_Satisfaction_Score,Payment_freq,MaritalStatus,Premium,Network_hospital_nearby,Claim_raised_last_year,not_passed_percent_claim
+10001,972846204,1,41,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,20993,8,1,0
+10004,972846204,0,33,Tier 2,No Rider,Graduate,Female,3,Monthly,Divorsed,17909,1,1,3
+10006,972846204,0,32,Tier 2,No Rider,Graduate,Male,3,Monthly,Single,18068,0,0,3
+10007,972846204,0,59,Tier 1,No Rider,12th,Female,2,Monthly,Divorsed,17670,4,1,0
+10011,972846204,0,35,Tier 1,No Rider,12th,Male,2,Monthly,Divorsed,17426,0,0,0
+10013,972846204,0,31,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17911,1,0,4
+10018,972846204,0,22,Tier 3,No Rider,12th,Male,2,Monthly,Married,17935,1,1,0
+10024,972846204,0,21,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,16232,1,0,0
+10027,972846204,1,32,Tier 2,No Rider,Graduate,Female,5,Monthly,Single,18919,1,1,6
+10031,972846204,0,33,Tier 1,No Rider,12th,Male,3,Monthly,Single,17496,4,0,0
+10033,972846204,0,30,Tier 1,No Rider,12th,Male,4,Monthly,Single,17206,1,0,1
+10034,972846204,1,39,Tier 1,GT 1 Rider,10th,Male,3,Quaterlty,Divorsed,17086,3,0,0
+10038,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Female,3,Monthly,Divorsed,17014,1,0,2
+10043,972846204,1,26,Tier 1,No Rider,Graduate,Male,5,Monthly,Single,17293,1,0,0
+10044,972846204,0,27,Tier 2,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,23726,1,0,1
+10045,972846204,0,30,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,19011,1,0,3
+10050,972846204,0,35,Tier 1,No Rider,Graduate,Male,2,Monthly,Divorsed,17269,1,0,0
+10054,972846204,0,35,Tier 3,No Rider,12th,Male,4,Semi Annual,Divorsed,24884,2,1,2
+10055,972846204,0,26,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Divorsed,19157,7,1,0
+10056,972846204,0,33,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Single,28458,1,1,8
+10060,972846204,0,37,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,20993,1,0,0
+10063,972846204,0,50,Tier 1,No Rider,12th,Female,4,Annual,Married,33740,5,1,13
+10069,972846204,0,35,Tier 2,No Rider,12th,Male,3,Monthly,Divorsed,17194,4,0,1
+10070,972846204,1,36,Tier 1,No Rider,12th,Male,4,Monthly,Divorsed,18388,0,1,0
+10071,972846204,0,59,Tier 2,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,20473,7,0,1
+10076,972846204,0,31,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,19424,1,0,1
+10077,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Single,19312,0,0,2
+10079,972846204,0,37,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,28664,4,0,0
+10080,972846204,0,46,Tier 1,1 Rider,12th,Male,3,Quaterlty,Married,20021,8,1,0
+10087,972846204,0,23,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,17322,3,0,0
+10095,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,20010,1,0,5
+10096,972846204,0,54,Tier 1,No Rider,10th,Female,3,Semi Annual,Divorsed,28549,9,0,0
+10098,972846204,0,28,Tier 3,GT 1 Rider,12th,Male,3,Quaterlty,Divorsed,19221,1,0,0
+10102,972846204,0,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17956,1,0,0
+10105,972846204,0,37,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Married,20163,5,0,0
+10110,972846204,0,22,Tier 1,No Rider,12th,Female,3,Monthly,Single,17871,1,0,0
+10111,972846204,0,51,Tier 2,No Rider,12th,Female,4,Semi Annual,Single,22484,3,0,12
+10113,972846204,0,54,Tier 3,1 Rider,Post Graduate,Female,2,Annual,Single,32328,2,1,4
+10115,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,19505,6,0,0
+10120,972846204,0,43,Tier 2,GT 1 Rider,Graduate,Male,3,Annual,Divorsed,31959,1,1,4
+10126,972846204,0,26,Tier 1,No Rider,Professional Degree,Female,4,Monthly,Divorsed,17368,1,0,4
+10127,972846204,1,58,Tier 1,No Rider,12th,Female,3,Semi Annual,Divorsed,25312,1,0,15
+10129,972846204,0,22,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,17523,0,0,2
+10137,972846204,1,51,Tier 2,No Rider,Graduate,Male,5,Semi Annual,Single,25650,2,0,0
+10141,972846204,1,32,Tier 1,No Rider,12th,Female,3,Monthly,Single,19200,7,0,0
+10143,972846204,0,38,Tier 1,No Rider,10th,Female,3,Quaterlty,Single,1000,3,1,2
+10144,972846204,0,30,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,17632,1,0,0
+10145,972846204,0,32,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,19668,0,0,0
+10148,972846204,0,41,Tier 2,No Rider,Graduate,Male,4,Annual,Married,32181,4,0,7
+10149,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,17238,2,0,1
+10168,972846204,0,30,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Divorsed,24419,2,0,7
+10169,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,23686,4,0,0
+10171,972846204,0,27,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,18058,0,1,1
+10172,972846204,1,19,Tier 2,GT 1 Rider,10th,Female,5,Monthly,Single,17325,0,0,0
+10173,972846204,0,36,Tier 2,No Rider,12th,Male,3,Monthly,Single,17088,4,0,7
+10175,972846204,0,45,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,20006,4,1,0
+10176,972846204,0,56,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,19257,4,1,2
+10177,972846204,0,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17500,0,0,0
+10178,972846204,1,19,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,16102,1,0,1
+10179,972846204,0,46,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,25453,1,0,15
+10181,972846204,0,31,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,18929,8,1,0
+10188,972846204,0,55,Tier 1,No Rider,12th,Male,2,Annual,Single,33722,8,0,2
+10190,972846204,0,51,Tier 1,No Rider,12th,Female,3,Annual,Single,28734,3,0,1
+10192,972846204,0,27,Tier 1,No Rider,12th,Female,3,Monthly,Single,17279,1,0,0
+10193,972846204,1,35,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Divorsed,20916,3,1,0
+10194,972846204,0,43,Tier 3,No Rider,12th,Male,2,Monthly,Married,17089,4,0,2
+10195,972846204,0,45,Tier 3,No Rider,12th,Male,4,Annual,Divorsed,31792,9,0,11
+10196,972846204,0,37,Tier 1,No Rider,Graduate,Male,2,Monthly,Divorsed,18564,1,1,1
+10198,972846204,0,42,Tier 3,No Rider,12th,Female,3,Quaterlty,Married,20265,2,0,0
+10199,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Divorsed,21553,9,0,0
+10200,972846204,0,38,Tier 1,No Rider,10th,Male,3,Quaterlty,Divorsed,21261,3,0,1
+10203,972846204,0,34,Tier 2,No Rider,12th,Male,3,Monthly,Married,18815,1,1,2
+10206,972846204,1,29,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Divorsed,22639,1,0,1
+10213,972846204,0,27,Tier 2,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,24981,1,0,0
+10216,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,28591,3,1,0
+10219,972846204,0,45,Tier 3,GT 1 Rider,12th,Female,4,Semi Annual,Single,23865,6,0,12
+10220,972846204,0,54,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Divorsed,20940,2,0,0
+10221,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,20914,8,0,3
+10223,972846204,0,37,Tier 2,No Rider,Professional Degree,Male,3,Semi Annual,Married,27185,1,1,0
+10224,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,25609,0,0,5
+10225,972846204,0,31,Tier 3,No Rider,12th,Male,5,Quaterlty,Divorsed,19345,0,0,1
+10227,972846204,0,37,Tier 2,GT 1 Rider,Below 10th,Male,3,Monthly,Married,17177,4,0,5
+10229,972846204,0,35,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,23789,1,0,0
+10232,972846204,0,42,Tier 1,No Rider,10th,Male,3,Annual,Divorsed,34232,1,0,11
+10234,972846204,0,50,Tier 1,GT 1 Rider,12th,Female,3,Annual,Married,34517,3,0,0
+10235,972846204,1,33,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,17436,5,1,0
+10237,972846204,1,33,Tier 1,No Rider,Graduate,Female,3,Monthly,Divorsed,17707,7,0,1
+10243,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,18072,2,0,0
+10250,972846204,0,45,Tier 2,No Rider,Graduate,Male,2,Quaterlty,Divorsed,21434,4,0,0
+10253,972846204,0,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17340,1,0,1
+10261,972846204,0,32,Tier 2,No Rider,Graduate,Male,2,Monthly,Divorsed,17794,1,0,0
+10263,972846204,0,32,Tier 1,No Rider,10th,Male,4,Quaterlty,Single,17176,4,0,0
+10264,972846204,0,46,Tier 1,GT 1 Rider,10th,Female,5,Annual,Divorsed,31872,3,1,7
+10267,972846204,0,31,Tier 1,No Rider,12th,Male,4,Quaterlty,Divorsed,20582,0,0,7
+10268,972846204,0,25,Tier 3,No Rider,Graduate,Male,2,Quaterlty,Married,19000,1,0,1
+10270,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18210,0,0,10
+10271,972846204,0,55,Tier 1,No Rider,12th,Male,3,Annual,Single,34045,0,1,4
+10277,972846204,0,35,Tier 1,No Rider,Graduate,Female,2,Semi Annual,Married,26996,7,0,6
+10278,972846204,0,38,Tier 1,GT 1 Rider,12th,Female,2,Quaterlty,Married,20605,1,1,7
+10281,972846204,0,53,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,32584,3,1,1
+10282,972846204,0,42,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,19907,1,0,11
+10292,972846204,0,36,Tier 1,No Rider,10th,Male,3,Quaterlty,Single,19485,4,0,7
+10296,972846204,0,42,Tier 2,GT 1 Rider,Below 10th,Female,3,Annual,Divorsed,28525,5,0,4
+10301,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Male,3,Annual,Single,31015,1,0,0
+10302,972846204,0,18,Tier 1,GT 1 Rider,12th,Female,4,Monthly,Single,16200,1,0,0
+10303,972846204,0,28,Tier 1,No Rider,12th,Male,2,Quaterlty,Single,20661,0,0,0
+10304,972846204,0,31,Tier 1,GT 1 Rider,10th,Male,2,Quaterlty,Divorsed,21929,4,0,7
+10305,972846204,0,39,Tier 1,No Rider,12th,Male,2,Semi Annual,Married,24613,0,0,3
+10306,972846204,0,36,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Divorsed,20674,7,0,0
+10310,972846204,0,31,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,19821,0,1,0
+10314,972846204,0,33,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Divorsed,26878,6,0,8
+10317,972846204,0,49,Tier 1,No Rider,10th,Female,4,Annual,Single,28964,7,1,0
+10318,972846204,1,52,Tier 1,No Rider,12th,Male,4,Quaterlty,Divorsed,19941,2,0,7
+10319,972846204,0,27,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,17478,1,1,1
+10320,972846204,0,32,Tier 1,GT 1 Rider,10th,Female,4,Quaterlty,Divorsed,20228,1,1,11
+10321,972846204,0,27,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,19478,1,1,0
+10322,972846204,0,31,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,22547,4,0,1
+10324,972846204,1,28,Tier 1,No Rider,12th,Male,5,Monthly,Divorsed,18464,5,1,2
+10326,972846204,0,31,Tier 2,No Rider,Graduate,Female,4,Semi Annual,Divorsed,23943,1,0,8
+10334,972846204,0,43,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Divorsed,24985,8,0,0
+10336,972846204,0,40,Tier 1,GT 1 Rider,12th,Male,5,Quaterlty,Divorsed,22457,2,1,0
+10338,972846204,0,29,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Single,18983,0,0,2
+10350,972846204,0,29,Tier 3,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,19649,1,0,0
+10354,972846204,0,37,Tier 1,No Rider,12th,Male,2,Quaterlty,Married,20974,4,1,6
+10356,972846204,0,26,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,20296,1,0,7
+10357,972846204,0,42,Tier 1,No Rider,Professional Degree,Male,4,Quaterlty,Single,21781,3,0,0
+10359,972846204,0,36,Tier 3,GT 1 Rider,12th,Female,3,Quaterlty,Single,21653,4,0,0
+10365,972846204,0,37,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,18452,6,0,0
+10366,972846204,0,46,Tier 3,No Rider,12th,Female,3,Quaterlty,Divorsed,20258,2,0,0
+10371,972846204,1,21,Tier 1,GT 1 Rider,Graduate,Female,2,Monthly,Single,17716,1,0,0
+10373,972846204,0,35,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,21540,9,0,0
+10381,972846204,0,24,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19260,1,1,0
+10382,972846204,0,30,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Divorsed,17476,1,0,0
+10383,972846204,1,26,Tier 2,No Rider,10th,Male,3,Monthly,Single,18102,0,0,0
+10388,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20715,7,0,1
+10394,972846204,0,34,Tier 3,GT 1 Rider,Below 10th,Female,3,Quaterlty,Divorsed,21538,9,0,1
+10395,972846204,0,31,Tier 1,No Rider,12th,Female,3,Quaterlty,Divorsed,19306,1,0,3
+10398,972846204,0,25,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,19487,1,1,1
+10399,972846204,0,37,Tier 3,No Rider,12th,Female,3,Quaterlty,Divorsed,19449,3,1,10
+10401,972846204,0,39,Tier 2,No Rider,Graduate,Male,3,Annual,Married,34197,1,1,1
+10402,972846204,0,56,Tier 2,GT 1 Rider,Graduate,Female,2,Annual,Divorsed,28212,9,0,7
+10405,972846204,0,28,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,19558,1,0,1
+10406,972846204,1,25,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,19031,5,0,0
+10409,972846204,0,52,Tier 1,No Rider,Graduate,Female,3,Annual,Divorsed,31555,2,0,1
+10410,972846204,0,42,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,19556,2,0,0
+10416,972846204,1,34,Tier 2,GT 1 Rider,Below 10th,Female,5,Monthly,Married,17351,0,0,1
+10418,972846204,0,40,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Divorsed,33041,0,0,1
+10419,972846204,0,26,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17886,1,0,0
+10421,972846204,0,29,Tier 1,No Rider,12th,Male,4,Semi Annual,Divorsed,26935,1,0,0
+10425,972846204,0,57,Tier 1,GT 1 Rider,Below 10th,Male,4,Annual,Married,29118,3,0,0
+10428,972846204,0,60,Tier 2,GT 1 Rider,Below 10th,Female,4,Semi Annual,Divorsed,25266,4,0,13
+10429,972846204,0,47,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,20070,5,0,0
+10430,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Annual,Divorsed,32861,6,0,0
+10433,972846204,0,34,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,17768,3,0,5
+10435,972846204,0,31,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Married,25648,1,0,0
+10442,972846204,0,42,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Divorsed,17093,4,0,2
+10444,972846204,1,22,Tier 2,No Rider,10th,Male,4,Monthly,Single,18894,5,0,1
+10450,972846204,0,39,Tier 2,No Rider,Graduate,Female,3,Monthly,Divorsed,18755,1,0,0
+10451,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,21582,4,1,0
+10453,972846204,0,45,Tier 1,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Divorsed,19805,0,0,3
+10454,972846204,1,26,Tier 2,1 Rider,Graduate,Female,3,Monthly,Married,17741,0,1,1
+10457,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,4,Semi Annual,Married,26557,9,0,0
+10462,972846204,0,35,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,19859,1,0,0
+10464,972846204,1,26,Tier 1,No Rider,10th,Male,5,Monthly,Single,17340,1,1,0
+10466,972846204,0,46,Tier 2,No Rider,12th,Female,3,Semi Annual,Divorsed,25527,5,0,1
+10468,972846204,0,37,Tier 3,GT 1 Rider,12th,Male,3,Semi Annual,Married,23834,1,0,7
+10470,972846204,1,32,Tier 3,GT 1 Rider,Professional Degree,Male,2,Quaterlty,Divorsed,19707,8,0,1
+10474,972846204,0,49,Tier 1,No Rider,Graduate,Male,4,Annual,Married,34502,1,1,0
+10475,972846204,0,24,Tier 1,No Rider,12th,Male,2,Monthly,Divorsed,17725,1,1,1
+10478,972846204,0,50,Tier 2,1 Rider,12th,Male,3,Annual,Divorsed,33200,1,0,10
+10485,972846204,0,31,Tier 1,GT 1 Rider,12th,Male,2,Quaterlty,Married,20460,4,0,5
+10488,972846204,0,20,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17836,1,0,0
+10492,972846204,0,43,Tier 2,No Rider,12th,Male,3,Quaterlty,Married,20679,3,1,4
+10493,972846204,0,48,Tier 1,No Rider,Graduate,Female,4,Annual,Divorsed,30402,7,0,0
+10496,972846204,1,27,Tier 1,GT 1 Rider,Below 10th,Male,3,Monthly,Married,18041,0,0,0
+10501,972846204,0,32,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,21322,1,1,0
+10504,972846204,0,34,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,17691,1,0,8
+10505,972846204,1,45,Tier 2,GT 1 Rider,Graduate,Female,3,Quaterlty,Divorsed,19286,2,0,0
+10506,972846204,0,26,Tier 1,No Rider,Graduate,Female,3,Monthly,Divorsed,17659,1,1,0
+10508,972846204,0,29,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Divorsed,20561,1,0,1
+10510,972846204,0,33,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,22725,3,0,4
+10512,972846204,0,36,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,23847,2,1,0
+10519,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Single,19028,0,0,0
+10520,972846204,0,29,Tier 2,No Rider,Graduate,Male,5,Monthly,Married,17720,1,0,2
+10532,972846204,0,32,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,26159,3,0,7
+10536,972846204,0,41,Tier 1,1 Rider,Post Graduate,Male,4,Annual,Married,34141,3,0,12
+10546,972846204,0,30,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20304,7,0,7
+10551,972846204,0,23,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,17500,1,0,0
+10552,972846204,0,39,Tier 1,1 Rider,Post Graduate,Female,2,Quaterlty,Divorsed,21389,9,0,3
+10555,972846204,0,27,Tier 1,No Rider,12th,Female,4,Quaterlty,Single,21811,8,0,0
+10558,972846204,0,35,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,20093,2,0,0
+10562,972846204,0,52,Tier 1,GT 1 Rider,Below 10th,Male,4,Annual,Divorsed,31856,1,0,1
+10569,972846204,1,55,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,34859,5,1,1
+10572,972846204,0,26,Tier 2,No Rider,Graduate,Female,5,Monthly,Married,19364,3,0,2
+10575,972846204,0,34,Tier 1,No Rider,Graduate,Female,1,Monthly,Single,18280,2,0,1
+10578,972846204,0,37,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17782,0,1,4
+10580,972846204,0,34,Tier 1,No Rider,12th,Female,4,Monthly,Single,19381,1,0,1
+10585,972846204,0,42,Tier 2,No Rider,Graduate,Male,3,Annual,Married,33430,1,0,14
+10586,972846204,1,23,Tier 1,No Rider,Graduate,Male,1,Monthly,Divorsed,16601,1,1,0
+10587,972846204,0,24,Tier 3,No Rider,Graduate,Male,4,Monthly,Married,17694,1,0,0
+10589,972846204,0,50,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,32639,5,0,0
+10590,972846204,1,29,Tier 1,No Rider,Graduate,Female,4,Monthly,Divorsed,17319,1,1,0
+10593,972846204,0,47,Tier 1,No Rider,Professional Degree,Female,3,Annual,Divorsed,31752,1,1,3
+10600,972846204,0,36,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Divorsed,17143,4,0,0
+10609,972846204,1,55,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,20160,4,0,7
+10611,972846204,0,27,Tier 1,No Rider,10th,Male,4,Semi Annual,Married,27808,1,1,0
+10612,972846204,0,35,Tier 1,No Rider,Professional Degree,Male,3,Semi Annual,Single,25221,3,0,1
+10613,972846204,0,28,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Divorsed,19779,1,1,7
+10616,972846204,0,27,Tier 3,No Rider,12th,Male,3,Monthly,Divorsed,16706,1,0,0
+10617,972846204,0,51,Tier 1,GT 1 Rider,Below 10th,Female,3,Annual,Divorsed,31307,2,0,4
+10618,972846204,0,44,Tier 1,No Rider,12th,Male,3,Quaterlty,Single,20933,9,0,2
+10622,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,21201,1,1,4
+10623,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,19403,2,0,0
+10627,972846204,0,32,Tier 1,No Rider,12th,Female,1,Quaterlty,Divorsed,20175,5,0,1
+10630,972846204,0,28,Tier 1,1 Rider,12th,Male,4,Monthly,Married,19936,1,0,0
+10636,972846204,0,35,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Divorsed,25685,1,1,5
+10637,972846204,1,35,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,17022,1,1,7
+10638,972846204,0,32,Tier 3,No Rider,Graduate,Male,3,Monthly,Married,17314,0,0,0
+10639,972846204,0,25,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Divorsed,19256,1,0,0
+10641,972846204,0,24,Tier 3,No Rider,Graduate,Male,4,Monthly,Divorsed,18162,0,0,3
+10643,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Male,4,Monthly,Divorsed,17899,0,0,1
+10647,972846204,0,53,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Divorsed,26836,5,0,2
+10651,972846204,0,43,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Divorsed,20562,4,0,2
+10655,972846204,0,39,Tier 1,1 Rider,Graduate,Female,4,Quaterlty,Divorsed,20204,8,0,0
+10660,972846204,0,28,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,19908,1,0,0
+10661,972846204,1,58,Tier 2,No Rider,Graduate,Male,4,Monthly,Married,17380,9,1,0
+10662,972846204,0,43,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,19765,4,0,0
+10663,972846204,1,20,Tier 1,GT 1 Rider,12th,Female,4,Monthly,Single,17044,1,0,0
+10664,972846204,1,21,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Single,17693,1,0,0
+10665,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Divorsed,21586,0,1,4
+10667,972846204,1,22,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,19171,0,1,0
+10674,972846204,0,33,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Single,17799,3,1,0
+10683,972846204,0,32,Tier 3,No Rider,Graduate,Female,4,Monthly,Divorsed,17332,6,0,0
+10686,972846204,0,26,Tier 2,GT 1 Rider,12th,Male,4,Quaterlty,Single,19294,1,0,0
+10687,972846204,0,41,Tier 1,No Rider,12th,Male,3,Monthly,Single,19721,2,1,2
+10693,972846204,0,32,Tier 1,No Rider,12th,Female,3,Quaterlty,Divorsed,21725,1,0,6
+10696,972846204,1,37,Tier 1,GT 1 Rider,Graduate,Male,4,Semi Annual,Divorsed,25609,5,0,11
+10699,972846204,0,35,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Divorsed,19601,1,0,1
+10701,972846204,1,58,Tier 1,No Rider,10th,Male,3,Monthly,Single,17479,4,0,0
+10702,972846204,0,53,Tier 1,GT 1 Rider,12th,Male,3,Annual,Married,29852,6,0,15
+10703,972846204,0,30,Tier 1,GT 1 Rider,Professional Degree,Male,3,Semi Annual,Married,22264,5,0,7
+10709,972846204,0,36,Tier 3,GT 1 Rider,10th,Male,3,Quaterlty,Married,20079,4,0,0
+10712,972846204,1,29,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17404,6,1,0
+10714,972846204,0,45,Tier 1,No Rider,12th,Female,3,Monthly,Married,17270,3,0,0
+10716,972846204,0,33,Tier 2,No Rider,Professional Degree,Female,1,Quaterlty,Divorsed,20488,1,1,1
+10721,972846204,1,30,Tier 1,No Rider,Graduate,Female,3,Monthly,Divorsed,17132,4,1,0
+10734,972846204,0,26,Tier 1,No Rider,12th,Male,1,Quaterlty,Divorsed,20472,1,0,1
+10737,972846204,0,48,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Single,25999,7,0,4
+10739,972846204,0,39,Tier 1,No Rider,Graduate,Female,4,Annual,Divorsed,27742,1,0,11
+10740,972846204,0,27,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,19227,0,0,2
+10741,972846204,0,35,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,18917,1,0,1
+10742,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Divorsed,33303,6,0,0
+10744,972846204,0,59,Tier 1,No Rider,Graduate,Female,4,Annual,Single,28726,3,1,4
+10746,972846204,0,55,Tier 2,No Rider,12th,Male,3,Quaterlty,Divorsed,21385,3,1,6
+10749,972846204,1,26,Tier 3,GT 1 Rider,12th,Male,5,Quaterlty,Single,19969,8,0,2
+10757,972846204,0,32,Tier 3,No Rider,12th,Female,3,Monthly,Single,19025,9,0,7
+10769,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,23396,1,0,7
+10772,972846204,0,54,Tier 1,GT 1 Rider,Graduate,Female,4,Semi Annual,Divorsed,25686,6,0,7
+10773,972846204,0,56,Tier 2,No Rider,12th,Female,3,Monthly,Divorsed,17942,2,0,0
+10777,972846204,1,20,Tier 2,GT 1 Rider,Below 10th,Female,3,Monthly,Single,17323,1,1,0
+10778,972846204,1,21,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,16416,1,0,1
+10785,972846204,0,38,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Divorsed,23823,0,0,1
+10786,972846204,0,40,Tier 1,No Rider,10th,Male,3,Semi Annual,Divorsed,25322,4,0,11
+10788,972846204,0,55,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Divorsed,25976,3,0,1
+10789,972846204,0,28,Tier 1,No Rider,Professional Degree,Female,3,Quaterlty,Single,18660,3,0,1
+10790,972846204,1,44,Tier 1,1 Rider,12th,Male,4,Semi Annual,Divorsed,25482,9,0,3
+10792,972846204,1,35,Tier 1,GT 1 Rider,10th,Male,3,Semi Annual,Single,24582,0,1,4
+10793,972846204,1,33,Tier 2,No Rider,12th,Female,4,Quaterlty,Single,19508,1,0,3
+10797,972846204,1,25,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,18691,1,1,5
+10807,972846204,0,52,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Single,25445,7,0,4
+10808,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,23740,0,1,2
+10810,972846204,0,28,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,22655,0,0,1
+10812,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Single,22351,7,0,0
+10813,972846204,0,43,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Divorsed,25820,8,0,0
+10819,972846204,0,31,Tier 2,GT 1 Rider,Graduate,Male,1,Monthly,Divorsed,17791,0,0,2
+10820,972846204,0,28,Tier 1,No Rider,Graduate,Male,4,Monthly,Divorsed,18201,0,0,0
+10822,972846204,0,49,Tier 1,GT 1 Rider,10th,Male,4,Annual,Divorsed,28120,6,0,2
+10824,972846204,0,29,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,18291,0,0,1
+10828,972846204,0,28,Tier 2,No Rider,Graduate,Male,4,Monthly,Married,17703,1,1,0
+10830,972846204,1,33,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,23224,0,1,0
+10831,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,19766,3,1,0
+10840,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,20155,7,0,1
+10849,972846204,0,35,Tier 2,No Rider,Professional Degree,Male,4,Monthly,Divorsed,17376,1,0,2
+10850,972846204,1,43,Tier 1,GT 1 Rider,Below 10th,Female,5,Quaterlty,Single,20346,8,0,1
+10851,972846204,0,32,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Married,17827,1,0,0
+10856,972846204,0,37,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Divorsed,21474,1,0,3
+10857,972846204,0,20,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,18033,1,0,1
+10860,972846204,0,29,Tier 1,No Rider,Graduate,Female,5,Monthly,Divorsed,17168,0,1,1
+10863,972846204,0,44,Tier 3,No Rider,Graduate,Male,5,Monthly,Single,17290,2,0,0
+10864,972846204,0,33,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Divorsed,18600,1,0,1
+10865,972846204,1,41,Tier 3,No Rider,Graduate,Male,4,Monthly,Married,17107,6,0,0
+10868,972846204,0,50,Tier 2,No Rider,12th,Female,3,Annual,Divorsed,32856,2,0,2
+10869,972846204,0,28,Tier 1,No Rider,12th,Male,4,Monthly,Divorsed,18196,1,0,3
+10879,972846204,0,42,Tier 3,1 Rider,12th,Male,1,Quaterlty,Divorsed,21272,7,0,0
+10884,972846204,0,33,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,17781,0,0,4
+10886,972846204,0,25,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,19950,0,0,1
+10887,972846204,0,30,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,18579,0,1,5
+10888,972846204,0,42,Tier 2,No Rider,12th,Female,3,Semi Annual,Divorsed,28191,3,1,0
+10890,972846204,0,27,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,17235,1,1,6
+10894,972846204,0,29,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18760,1,0,1
+10897,972846204,0,31,Tier 1,No Rider,12th,Female,4,Quaterlty,Single,21812,1,0,1
+10899,972846204,0,43,Tier 1,No Rider,Graduate,Male,5,Annual,Divorsed,34740,3,0,0
+10900,972846204,0,49,Tier 1,No Rider,12th,Male,4,Annual,Divorsed,33711,2,0,0
+10901,972846204,0,36,Tier 2,No Rider,10th,Male,3,Monthly,Divorsed,18692,1,0,0
+10903,972846204,0,27,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17517,1,0,0
+10904,972846204,0,29,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21623,1,1,1
+10908,972846204,0,44,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Divorsed,33213,7,0,3
+10915,972846204,0,55,Tier 3,No Rider,12th,Male,4,Annual,Married,28577,1,1,15
+10916,972846204,1,21,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,17625,1,0,2
+10917,972846204,0,46,Tier 1,GT 1 Rider,Below 10th,Female,4,Annual,Divorsed,33789,2,0,0
+10920,972846204,0,59,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,25512,6,0,5
+10921,972846204,0,34,Tier 2,No Rider,12th,Female,3,Quaterlty,Married,19444,4,0,5
+10923,972846204,0,44,Tier 1,No Rider,Graduate,Male,1,Annual,Married,34190,1,0,14
+10934,972846204,0,28,Tier 1,No Rider,10th,Male,3,Monthly,Single,17080,2,0,1
+10936,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,1,Quaterlty,Divorsed,21209,1,0,0
+10937,972846204,0,45,Tier 2,No Rider,12th,Female,3,Annual,Single,33061,3,0,0
+10944,972846204,0,46,Tier 1,1 Rider,Graduate,Female,3,Monthly,Single,18423,6,0,5
+10945,972846204,0,28,Tier 3,No Rider,Graduate,Female,5,Quaterlty,Divorsed,21674,0,0,7
+10946,972846204,0,50,Tier 1,No Rider,Graduate,Female,3,Annual,Divorsed,31880,4,1,1
+10951,972846204,0,31,Tier 3,GT 1 Rider,Graduate,Female,3,Semi Annual,Married,24852,1,1,9
+10957,972846204,0,56,Tier 1,1 Rider,Graduate,Male,3,Annual,Single,34717,6,0,7
+10958,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Monthly,Married,18544,9,0,0
+10963,972846204,0,51,Tier 1,1 Rider,Graduate,Male,3,Annual,Married,29026,1,1,0
+10965,972846204,0,34,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,21125,1,0,9
+10967,972846204,1,58,Tier 1,No Rider,12th,Female,4,Semi Annual,Divorsed,25008,7,1,5
+10968,972846204,0,40,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,17387,3,0,0
+10971,972846204,0,27,Tier 1,GT 1 Rider,12th,Female,1,Monthly,Divorsed,17534,8,0,0
+10973,972846204,0,18,Tier 3,No Rider,Graduate,Female,3,Monthly,Single,16611,1,0,0
+10978,972846204,0,34,Tier 3,No Rider,10th,Female,4,Monthly,Married,17029,1,0,0
+10979,972846204,0,40,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,21377,5,0,11
+10980,972846204,0,34,Tier 1,No Rider,12th,Male,3,Quaterlty,Divorsed,20429,4,0,7
+10981,972846204,1,31,Tier 2,GT 1 Rider,Graduate,Female,4,Monthly,Single,17785,7,0,0
+10985,972846204,0,28,Tier 1,GT 1 Rider,Graduate,Male,4,Quaterlty,Divorsed,19724,1,0,0
+10986,972846204,1,31,Tier 1,No Rider,12th,Male,3,Quaterlty,Divorsed,21179,1,1,6
+10992,972846204,0,32,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,19078,0,1,1
+10997,972846204,0,27,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Divorsed,20769,1,1,4
+11002,972846204,0,37,Tier 1,No Rider,12th,Female,3,Monthly,Single,18629,4,0,0
+11009,972846204,0,54,Tier 1,No Rider,12th,Female,3,Annual,Single,32328,6,0,12
+11010,972846204,0,58,Tier 1,No Rider,12th,Female,3,Annual,Divorsed,34701,3,1,1
+11013,972846204,1,31,Tier 2,GT 1 Rider,Graduate,Female,5,Monthly,Single,16359,1,0,0
+11014,972846204,0,30,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19779,7,0,0
+11016,972846204,0,34,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Married,17996,5,0,1
+11019,972846204,0,36,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,20810,1,0,1
+11026,972846204,0,24,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Divorsed,19162,1,1,0
+11027,972846204,0,32,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,24204,4,0,0
+11028,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Monthly,Divorsed,18294,5,0,0
+11031,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,25793,1,0,9
+11037,972846204,1,31,Tier 2,No Rider,Graduate,Male,3,Monthly,Divorsed,18722,6,1,2
+11040,972846204,1,34,Tier 1,1 Rider,10th,Female,3,Monthly,Divorsed,17742,1,0,2
+11045,972846204,0,49,Tier 1,No Rider,10th,Male,3,Quaterlty,Divorsed,21651,2,0,1
+11048,972846204,0,33,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Divorsed,19373,0,0,0
+11052,972846204,0,44,Tier 2,GT 1 Rider,Below 10th,Female,3,Quaterlty,Divorsed,19768,7,0,0
+11053,972846204,0,30,Tier 3,No Rider,10th,Male,3,Monthly,Married,16274,1,0,0
+11061,972846204,1,24,Tier 2,No Rider,12th,Male,3,Monthly,Single,18172,2,1,0
+11062,972846204,0,24,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Divorsed,17033,1,0,0
+11067,972846204,0,33,Tier 1,No Rider,12th,Female,4,Monthly,Divorsed,18838,8,0,0
+11068,972846204,0,47,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Divorsed,19591,3,1,1
+11072,972846204,0,49,Tier 1,No Rider,12th,Female,4,Quaterlty,Divorsed,19789,4,0,1
+11073,972846204,0,29,Tier 2,No Rider,Graduate,Female,3,Monthly,Divorsed,18180,0,0,0
+11074,972846204,0,28,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Divorsed,21549,1,0,1
+11079,972846204,0,44,Tier 1,No Rider,Graduate,Male,3,Annual,Divorsed,31328,3,0,14
+11083,972846204,0,23,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,17272,0,0,1
+11084,972846204,1,40,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17018,3,0,1
+11088,972846204,0,34,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,17308,0,1,5
+11097,972846204,0,40,Tier 1,1 Rider,12th,Male,3,Annual,Single,31437,1,1,7
+11102,972846204,0,32,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,20878,3,0,2
+11106,972846204,0,33,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,21392,2,0,2
+11108,972846204,0,38,Tier 2,1 Rider,Post Graduate,Male,3,Quaterlty,Married,21077,3,0,1
+11109,972846204,0,35,Tier 1,No Rider,12th,Male,4,Monthly,Single,17450,1,0,1
+11115,972846204,0,48,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,17367,8,0,7
+11121,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,19198,2,0,1
+11122,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,21815,6,0,0
+11126,972846204,0,29,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,23853,1,0,1
+11128,972846204,0,23,Tier 1,No Rider,10th,Male,1,Monthly,Married,17073,2,0,2
+11133,972846204,0,40,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,19639,1,0,1
+11136,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Male,1,Annual,Single,32567,1,0,0
+11137,972846204,1,28,Tier 1,No Rider,12th,Male,3,Monthly,Married,17408,1,1,0
+11145,972846204,0,31,Tier 2,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Single,20332,7,0,0
+11147,972846204,0,34,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,19724,1,0,7
+11148,972846204,0,49,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18211,1,0,1
+11149,972846204,0,39,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20377,2,0,7
+11151,972846204,0,35,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,20208,1,0,1
+11152,972846204,0,28,Tier 1,No Rider,12th,Female,5,Quaterlty,Married,20208,0,0,0
+11153,972846204,0,21,Tier 1,No Rider,12th,Male,3,Monthly,Single,18117,1,0,2
+11156,972846204,0,39,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,18069,0,0,0
+11157,972846204,0,40,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,25435,1,0,14
+11158,972846204,0,35,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,19148,1,0,2
+11162,972846204,0,38,Tier 1,No Rider,12th,Female,4,Semi Annual,Married,22756,3,1,0
+11165,972846204,0,40,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,22945,6,1,3
+11167,972846204,0,48,Tier 2,No Rider,12th,Male,4,Annual,Married,30202,2,0,2
+11170,972846204,0,27,Tier 1,No Rider,12th,Female,1,Monthly,Married,18517,7,0,0
+11171,972846204,0,27,Tier 2,No Rider,12th,Male,3,Monthly,Single,17580,2,0,1
+11173,972846204,0,29,Tier 1,GT 1 Rider,12th,Male,4,Quaterlty,Single,20869,9,0,1
+11174,972846204,0,36,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Married,23008,4,0,0
+11176,972846204,0,39,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20295,4,0,1
+11177,972846204,0,49,Tier 1,No Rider,Professional Degree,Female,3,Annual,Married,31413,3,0,1
+11184,972846204,0,36,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,21842,6,0,0
+11189,972846204,0,29,Tier 1,GT 1 Rider,12th,Male,4,Quaterlty,Married,19187,1,1,0
+11195,972846204,0,47,Tier 1,GT 1 Rider,Graduate,Female,1,Annual,Married,30972,6,0,1
+11197,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,22082,3,1,0
+11200,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,20347,6,0,0
+11202,972846204,1,23,Tier 1,No Rider,12th,Male,4,Monthly,Single,18989,1,1,1
+11207,972846204,0,26,Tier 3,No Rider,12th,Male,3,Monthly,Single,17570,1,0,5
+11209,972846204,0,34,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,18986,1,0,4
+11210,972846204,0,60,Tier 1,No Rider,12th,Male,5,Semi Annual,Married,25883,3,0,0
+11212,972846204,0,37,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,24525,1,0,1
+11215,972846204,0,44,Tier 1,No Rider,Graduate,Female,1,Semi Annual,Married,22879,1,1,6
+11217,972846204,0,43,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,22847,1,1,8
+11221,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,19502,3,0,6
+11222,972846204,0,45,Tier 3,No Rider,Graduate,Male,4,Semi Annual,Married,25748,3,0,14
+11224,972846204,1,47,Tier 2,GT 1 Rider,Graduate,Male,5,Annual,Married,27936,7,0,14
+11226,972846204,0,45,Tier 1,No Rider,10th,Female,4,Annual,Single,31704,1,0,8
+11227,972846204,0,32,Tier 2,No Rider,Graduate,Male,3,Monthly,Married,18433,6,0,1
+11229,972846204,0,41,Tier 3,1 Rider,Post Graduate,Male,5,Quaterlty,Married,21430,6,0,1
+11236,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,25368,4,1,0
+11239,972846204,0,23,Tier 1,No Rider,12th,Female,3,Monthly,Single,18295,1,0,1
+11240,972846204,0,31,Tier 2,No Rider,10th,Female,3,Quaterlty,Single,20238,2,0,1
+11242,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Male,5,Semi Annual,Married,24610,3,0,0
+11243,972846204,0,40,Tier 1,GT 1 Rider,12th,Male,3,Annual,Single,34833,1,0,12
+11245,972846204,0,30,Tier 2,No Rider,10th,Female,4,Monthly,Single,19968,0,0,0
+11249,972846204,0,27,Tier 1,No Rider,12th,Female,3,Monthly,Single,18445,1,0,1
+11251,972846204,0,29,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Single,21294,8,1,0
+11253,972846204,0,34,Tier 1,No Rider,12th,Male,1,Monthly,Married,17932,0,1,1
+11256,972846204,1,33,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,23564,2,1,0
+11258,972846204,1,31,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,23161,2,0,0
+11263,972846204,1,43,Tier 2,No Rider,10th,Male,4,Monthly,Married,17437,9,1,0
+11269,972846204,0,53,Tier 3,No Rider,12th,Female,4,Annual,Married,27965,4,1,0
+11274,972846204,1,22,Tier 1,No Rider,12th,Female,3,Monthly,Married,17398,1,1,0
+11276,972846204,0,51,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,28116,2,0,2
+11277,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,19189,1,0,0
+11281,972846204,0,37,Tier 1,1 Rider,Professional Degree,Male,3,Quaterlty,Married,19071,2,0,4
+11282,972846204,1,35,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20813,1,1,7
+11285,972846204,0,39,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,28464,7,0,2
+11293,972846204,0,39,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,19127,2,0,2
+11295,972846204,0,41,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Single,21870,3,0,1
+11296,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,25447,0,1,13
+11298,972846204,1,26,Tier 1,1 Rider,12th,Female,3,Monthly,Married,17148,0,1,1
+11302,972846204,0,58,Tier 3,GT 1 Rider,12th,Male,3,Annual,Married,21799,4,0,14
+11303,972846204,0,35,Tier 1,No Rider,12th,Male,5,Monthly,Married,17705,0,0,0
+11308,972846204,0,28,Tier 1,No Rider,12th,Female,3,Monthly,Married,18591,1,0,1
+11312,972846204,0,18,Tier 3,No Rider,12th,Female,3,Monthly,Single,16514,1,0,0
+11313,972846204,1,31,Tier 1,1 Rider,Post Graduate,Male,1,Monthly,Married,17956,0,0,0
+11320,972846204,0,32,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,19648,8,0,0
+11322,972846204,0,47,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,17105,4,0,2
+11324,972846204,0,28,Tier 3,1 Rider,Graduate,Male,3,Monthly,Married,17706,1,0,2
+11325,972846204,0,29,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Married,21384,8,0,1
+11328,972846204,0,46,Tier 1,GT 1 Rider,10th,Female,1,Annual,Married,28225,2,0,2
+11329,972846204,0,27,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Married,18540,1,0,5
+11330,972846204,0,29,Tier 1,1 Rider,12th,Male,4,Monthly,Married,17804,1,0,0
+11331,972846204,0,43,Tier 1,No Rider,12th,Female,4,Annual,Married,34392,7,0,6
+11332,972846204,0,48,Tier 1,No Rider,Graduate,Male,4,Annual,Married,34665,4,0,12
+11335,972846204,0,27,Tier 2,No Rider,Graduate,Female,4,Monthly,Married,19774,0,0,7
+11339,972846204,1,30,Tier 1,GT 1 Rider,12th,Male,3,Monthly,Single,16081,1,0,0
+11345,972846204,0,37,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,19284,5,1,0
+11353,972846204,0,44,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,20033,2,0,2
+11355,972846204,1,56,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17587,1,0,1
+11356,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,20507,2,0,1
+11362,972846204,0,26,Tier 2,No Rider,Professional Degree,Male,1,Monthly,Married,17544,0,0,7
+11366,972846204,1,29,Tier 2,GT 1 Rider,10th,Male,1,Monthly,Single,16091,1,0,0
+11368,972846204,0,27,Tier 1,No Rider,10th,Male,3,Monthly,Married,17226,1,0,1
+11369,972846204,0,34,Tier 2,No Rider,Professional Degree,Male,4,Quaterlty,Married,20747,1,1,6
+11372,972846204,0,56,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,20380,4,0,0
+11374,972846204,0,38,Tier 2,No Rider,12th,Female,4,Quaterlty,Married,17133,1,1,0
+11375,972846204,0,58,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Married,32875,4,1,0
+11380,972846204,1,27,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,17863,1,0,0
+11382,972846204,0,28,Tier 3,No Rider,12th,Male,3,Monthly,Single,17144,1,0,1
+11384,972846204,0,36,Tier 3,No Rider,Graduate,Male,1,Monthly,Married,17810,1,0,0
+11386,972846204,0,34,Tier 1,GT 1 Rider,12th,Male,3,Semi Annual,Married,23628,1,0,1
+11389,972846204,0,32,Tier 3,No Rider,12th,Female,3,Quaterlty,Married,21667,5,0,1
+11392,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,4,Monthly,Single,17858,4,0,0
+11393,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,20204,1,1,0
+11394,972846204,0,27,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,19105,1,0,0
+11399,972846204,0,33,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,20968,1,0,2
+11403,972846204,0,31,Tier 1,No Rider,12th,Female,5,Monthly,Married,16129,1,1,0
+11404,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Single,28341,0,0,11
+11411,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20677,3,0,5
+11413,972846204,0,30,Tier 1,No Rider,12th,Male,3,Monthly,Married,18748,1,0,1
+11414,972846204,0,25,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,18977,6,1,0
+11415,972846204,0,47,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,23633,2,0,12
+11431,972846204,0,38,Tier 1,No Rider,12th,Female,5,Semi Annual,Married,28206,3,0,1
+11432,972846204,0,32,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,25422,1,0,5
+11437,972846204,0,21,Tier 1,GT 1 Rider,12th,Male,3,Monthly,Single,17380,1,1,1
+11438,972846204,0,39,Tier 3,No Rider,Graduate,Male,3,Annual,Single,34431,2,0,1
+11441,972846204,0,36,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,20131,7,0,0
+11442,972846204,0,56,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,21306,1,0,1
+11443,972846204,1,29,Tier 1,No Rider,12th,Male,3,Monthly,Married,19787,9,1,2
+11450,972846204,0,32,Tier 1,No Rider,10th,Male,3,Monthly,Single,17439,1,0,1
+11454,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,21652,4,0,0
+11455,972846204,0,45,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,19850,8,0,0
+11463,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Female,4,Annual,Married,27031,0,0,9
+11467,972846204,0,39,Tier 1,No Rider,12th,Male,4,Semi Annual,Married,24991,4,0,1
+11477,972846204,0,59,Tier 1,No Rider,12th,Female,1,Monthly,Married,17670,4,1,0
+11481,972846204,0,35,Tier 1,No Rider,12th,Male,1,Monthly,Married,17426,0,0,0
+11482,972846204,0,29,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Single,19193,0,1,0
+11486,972846204,0,29,Tier 1,No Rider,Graduate,Female,1,Semi Annual,Married,24980,1,0,8
+11489,972846204,0,53,Tier 1,GT 1 Rider,Graduate,Female,4,Annual,Married,30427,2,0,3
+11490,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18944,5,1,1
+11491,972846204,0,24,Tier 3,No Rider,Professional Degree,Female,1,Quaterlty,Married,19011,0,0,1
+11492,972846204,1,36,Tier 1,GT 1 Rider,Graduate,Male,4,Monthly,Single,18407,7,0,0
+11493,972846204,0,34,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,26994,0,0,2
+11499,972846204,0,44,Tier 1,No Rider,12th,Female,4,Semi Annual,Married,25248,3,0,5
+11504,972846204,1,39,Tier 1,GT 1 Rider,10th,Male,3,Quaterlty,Married,17086,3,0,0
+11505,972846204,1,24,Tier 1,No Rider,12th,Male,3,Monthly,Married,17293,2,1,2
+11510,972846204,0,33,Tier 2,GT 1 Rider,Graduate,Female,1,Quaterlty,Married,20376,2,0,1
+11514,972846204,0,27,Tier 2,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,23726,1,0,1
+11515,972846204,0,30,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,19011,1,0,3
+11520,972846204,0,35,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,17269,1,0,0
+11521,972846204,1,48,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Single,20381,9,1,0
+11523,972846204,0,44,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20454,5,1,1
+11524,972846204,0,35,Tier 3,No Rider,12th,Male,4,Semi Annual,Married,24884,2,1,2
+11531,972846204,0,32,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21162,1,1,7
+11534,972846204,0,59,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,22637,7,0,7
+11541,972846204,0,59,Tier 2,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,20473,7,0,1
+11546,972846204,0,31,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,19424,1,0,1
+11547,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Single,19312,0,0,2
+11549,972846204,0,37,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,28664,4,0,0
+11551,972846204,0,30,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,20126,1,1,3
+11555,972846204,0,34,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,19325,1,0,1
+11557,972846204,0,23,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,17322,3,0,0
+11558,972846204,0,51,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17075,3,0,0
+11562,972846204,0,51,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,20441,0,1,1
+11566,972846204,0,54,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,28549,9,0,0
+11567,972846204,0,24,Tier 1,GT 1 Rider,Professional Degree,Female,3,Quaterlty,Married,19999,0,0,0
+11569,972846204,0,58,Tier 1,GT 1 Rider,12th,Male,3,Annual,Single,28872,0,0,1
+11570,972846204,0,44,Tier 3,No Rider,12th,Male,3,Quaterlty,Married,17042,4,0,1
+11573,972846204,1,20,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,17926,1,1,1
+11575,972846204,0,37,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Married,20163,5,0,0
+11578,972846204,1,25,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Single,20744,1,1,0
+11579,972846204,0,25,Tier 1,No Rider,12th,Male,4,Monthly,Married,17889,1,0,2
+11583,972846204,0,54,Tier 3,1 Rider,Post Graduate,Female,1,Annual,Single,32328,2,1,4
+11585,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,19505,6,0,0
+11587,972846204,0,34,Tier 1,No Rider,12th,Female,4,Semi Annual,Single,26631,2,0,5
+11596,972846204,0,26,Tier 1,No Rider,Professional Degree,Female,4,Monthly,Married,17368,1,0,4
+11601,972846204,0,43,Tier 2,No Rider,12th,Female,1,Monthly,Single,19739,4,0,1
+11602,972846204,0,50,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,24208,4,0,2
+11608,972846204,0,39,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Married,20902,4,0,5
+11612,972846204,0,45,Tier 1,No Rider,12th,Male,3,Monthly,Single,18452,5,0,0
+11615,972846204,0,32,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,19668,0,0,0
+11616,972846204,0,30,Tier 1,No Rider,10th,Female,3,Monthly,Married,18204,5,0,2
+11626,972846204,0,29,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,19319,1,0,0
+11630,972846204,0,34,Tier 2,GT 1 Rider,Below 10th,Female,3,Monthly,Married,17231,6,0,1
+11639,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,23686,4,0,0
+11640,972846204,0,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18038,3,0,1
+11647,972846204,0,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17500,0,0,0
+11654,972846204,0,50,Tier 1,No Rider,12th,Male,4,Monthly,Married,18690,2,0,0
+11655,972846204,0,53,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,19450,1,0,1
+11659,972846204,0,34,Tier 2,No Rider,Graduate,Male,4,Quaterlty,Married,24547,1,0,1
+11661,972846204,0,52,Tier 1,No Rider,Graduate,Male,4,Annual,Married,34999,0,0,11
+11663,972846204,1,35,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,20916,3,1,0
+11664,972846204,0,43,Tier 3,No Rider,12th,Male,1,Monthly,Married,17089,4,0,2
+11665,972846204,0,45,Tier 3,No Rider,12th,Male,4,Annual,Married,31792,9,0,11
+11669,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21553,9,0,0
+11673,972846204,0,34,Tier 2,No Rider,12th,Male,3,Monthly,Married,18815,1,1,2
+11674,972846204,0,40,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,17741,8,1,3
+11675,972846204,1,38,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21673,7,1,0
+11679,972846204,0,40,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Married,19876,9,0,0
+11685,972846204,1,30,Tier 1,No Rider,10th,Female,3,Monthly,Single,17657,5,1,0
+11690,972846204,0,54,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20940,2,0,0
+11694,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,25609,0,0,5
+11699,972846204,0,35,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,23789,1,0,0
+11700,972846204,1,29,Tier 1,No Rider,12th,Male,4,Monthly,Single,17389,1,1,0
+11711,972846204,0,39,Tier 1,No Rider,12th,Female,3,Monthly,Married,17232,7,0,1
+11715,972846204,0,45,Tier 1,No Rider,Professional Degree,Male,1,Annual,Married,34202,0,0,1
+11718,972846204,0,34,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,20957,6,0,5
+11721,972846204,1,37,Tier 2,No Rider,12th,Male,3,Semi Annual,Married,25048,6,0,0
+11725,972846204,0,29,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,21931,2,0,0
+11730,972846204,1,31,Tier 2,No Rider,12th,Male,4,Monthly,Single,18479,0,0,1
+11732,972846204,0,38,Tier 3,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,20249,3,0,7
+11734,972846204,0,46,Tier 1,GT 1 Rider,10th,Female,5,Annual,Married,31872,3,1,7
+11735,972846204,1,28,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18485,2,0,0
+11741,972846204,0,55,Tier 1,No Rider,12th,Male,3,Annual,Single,34045,0,1,4
+11742,972846204,1,47,Tier 3,No Rider,Graduate,Male,3,Semi Annual,Married,26849,1,1,9
+11749,972846204,0,26,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,21397,1,0,1
+11750,972846204,0,50,Tier 1,No Rider,Graduate,Male,3,Annual,Married,34144,3,0,1
+11752,972846204,0,42,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,19907,1,0,11
+11753,972846204,0,29,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,19554,1,0,0
+11754,972846204,0,55,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,20415,3,1,0
+11756,972846204,0,37,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,17115,1,0,5
+11757,972846204,1,44,Tier 2,No Rider,Graduate,Male,3,Monthly,Married,18161,3,1,0
+11758,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,20745,9,0,1
+11761,972846204,0,49,Tier 2,No Rider,Graduate,Female,3,Annual,Single,33665,9,1,1
+11768,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,23020,0,0,6
+11771,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Male,3,Annual,Single,31015,1,0,0
+11773,972846204,0,28,Tier 1,No Rider,12th,Male,1,Quaterlty,Single,20661,0,0,0
+11779,972846204,0,58,Tier 3,No Rider,Graduate,Male,5,Quaterlty,Married,20660,2,1,1
+11780,972846204,0,31,Tier 1,No Rider,10th,Male,3,Monthly,Married,19821,0,1,0
+11781,972846204,0,31,Tier 1,1 Rider,Post Graduate,Male,4,Quaterlty,Married,21410,3,0,1
+11782,972846204,0,45,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,20210,1,0,9
+11783,972846204,0,31,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17695,0,1,2
+11786,972846204,0,43,Tier 2,No Rider,Graduate,Female,3,Monthly,Single,17455,0,0,1
+11793,972846204,0,32,Tier 1,No Rider,12th,Female,1,Quaterlty,Single,20055,7,0,0
+11805,972846204,0,45,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,18697,9,0,9
+11807,972846204,1,29,Tier 1,No Rider,Professional Degree,Male,5,Monthly,Married,17119,1,1,0
+11816,972846204,0,23,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17904,1,0,0
+11818,972846204,0,47,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Single,17976,3,0,0
+11821,972846204,0,42,Tier 1,1 Rider,10th,Male,3,Monthly,Married,17696,0,1,1
+11826,972846204,0,26,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,20296,1,0,7
+11828,972846204,1,21,Tier 2,GT 1 Rider,10th,Female,4,Monthly,Single,17174,1,1,1
+11835,972846204,0,37,Tier 1,No Rider,12th,Female,3,Monthly,Married,18452,6,0,0
+11838,972846204,0,50,Tier 1,No Rider,10th,Male,4,Semi Annual,Single,25496,6,0,1
+11839,972846204,1,40,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,21380,2,1,1
+11842,972846204,0,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17201,9,0,1
+11843,972846204,0,35,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,21540,9,0,0
+11845,972846204,0,28,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20253,1,0,0
+11847,972846204,0,51,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,19936,4,0,0
+11848,972846204,0,36,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17543,4,0,2
+11852,972846204,0,30,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,17476,1,0,0
+11856,972846204,1,30,Tier 2,No Rider,10th,Male,3,Monthly,Single,17285,9,1,0
+11857,972846204,0,37,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18034,1,0,12
+11858,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20715,7,0,1
+11860,972846204,0,37,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,19197,2,1,0
+11862,972846204,0,40,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,18448,6,0,0
+11863,972846204,0,54,Tier 1,No Rider,12th,Male,3,Annual,Married,34406,4,0,1
+11864,972846204,0,34,Tier 3,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,21538,9,0,1
+11866,972846204,0,43,Tier 2,No Rider,12th,Male,3,Monthly,Married,17258,7,0,1
+11867,972846204,0,43,Tier 1,No Rider,Professional Degree,Female,3,Quaterlty,Married,19522,4,1,0
+11868,972846204,0,25,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,19487,1,1,1
+11869,972846204,0,37,Tier 3,No Rider,12th,Female,3,Quaterlty,Married,19449,3,1,10
+11872,972846204,0,56,Tier 2,GT 1 Rider,Graduate,Female,1,Annual,Married,28212,9,0,7
+11874,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Male,1,Semi Annual,Married,23392,1,0,0
+11885,972846204,1,24,Tier 1,GT 1 Rider,10th,Female,3,Monthly,Single,18202,1,1,1
+11889,972846204,0,26,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17886,1,0,0
+11897,972846204,0,30,Tier 3,No Rider,12th,Female,3,Monthly,Single,17564,0,0,6
+11900,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Annual,Married,32861,6,0,0
+11902,972846204,0,54,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,18780,7,0,0
+11907,972846204,1,33,Tier 1,No Rider,12th,Male,5,Monthly,Married,18408,7,0,1
+11909,972846204,0,35,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Married,22632,4,1,0
+11912,972846204,0,42,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Married,17093,4,0,2
+11913,972846204,0,36,Tier 3,GT 1 Rider,12th,Male,3,Semi Annual,Single,24980,1,0,9
+11914,972846204,1,22,Tier 2,No Rider,10th,Male,4,Monthly,Single,18894,5,0,1
+11921,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,21582,4,1,0
+11923,972846204,0,45,Tier 1,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Married,19805,0,0,3
+11924,972846204,1,26,Tier 2,1 Rider,Graduate,Female,3,Monthly,Married,17741,0,1,1
+11926,972846204,0,33,Tier 1,No Rider,12th,Female,1,Annual,Married,31184,4,0,0
+11929,972846204,0,40,Tier 3,GT 1 Rider,Professional Degree,Male,5,Semi Annual,Married,25932,3,0,0
+11932,972846204,0,35,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,19859,1,0,0
+11934,972846204,1,26,Tier 1,No Rider,10th,Male,5,Monthly,Single,17340,1,1,0
+11938,972846204,0,37,Tier 3,GT 1 Rider,12th,Male,3,Semi Annual,Married,23834,1,0,7
+11939,972846204,0,52,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,20577,3,1,6
+11944,972846204,0,49,Tier 1,No Rider,Graduate,Male,4,Annual,Married,34502,1,1,0
+11945,972846204,0,24,Tier 1,No Rider,12th,Male,1,Monthly,Married,17725,1,1,1
+11948,972846204,0,50,Tier 2,1 Rider,12th,Male,3,Annual,Married,33200,1,0,10
+11951,972846204,1,30,Tier 2,GT 1 Rider,Graduate,Male,4,Monthly,Married,17033,1,0,0
+11956,972846204,0,27,Tier 1,No Rider,12th,Female,4,Monthly,Married,17187,0,0,0
+11958,972846204,0,20,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17836,1,0,0
+11964,972846204,0,44,Tier 1,1 Rider,Graduate,Female,4,Quaterlty,Single,20985,4,0,0
+11965,972846204,0,34,Tier 1,GT 1 Rider,10th,Female,3,Monthly,Married,17579,1,1,0
+11967,972846204,0,21,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Single,18447,1,0,1
+11969,972846204,0,22,Tier 1,No Rider,12th,Male,3,Monthly,Married,17773,0,0,2
+11979,972846204,0,35,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Single,21646,1,0,11
+11982,972846204,0,36,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,23847,2,1,0
+11984,972846204,1,20,Tier 1,No Rider,12th,Male,3,Monthly,Single,16009,1,1,1
+11985,972846204,1,33,Tier 2,No Rider,Graduate,Male,3,Monthly,Single,18348,1,1,9
+11993,972846204,0,37,Tier 1,No Rider,Graduate,Male,1,Monthly,Single,19680,3,0,0
+11999,972846204,1,50,Tier 2,GT 1 Rider,10th,Male,3,Quaterlty,Married,21796,3,1,1
+12004,972846204,0,40,Tier 2,GT 1 Rider,Graduate,Male,4,Semi Annual,Married,25475,5,1,1
+12005,972846204,0,53,Tier 1,No Rider,Graduate,Male,1,Annual,Married,29814,3,0,1
+12009,972846204,0,41,Tier 1,1 Rider,Post Graduate,Male,4,Annual,Married,34189,1,0,2
+12015,972846204,0,47,Tier 2,GT 1 Rider,12th,Female,3,Annual,Married,28770,9,1,11
+12017,972846204,0,29,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Single,17642,1,0,0
+12022,972846204,0,39,Tier 1,1 Rider,Post Graduate,Female,1,Quaterlty,Married,21389,9,0,3
+12028,972846204,0,35,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,20093,2,0,0
+12031,972846204,0,34,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,20121,3,0,0
+12037,972846204,1,47,Tier 2,GT 1 Rider,Graduate,Female,1,Quaterlty,Single,21397,4,1,1
+12041,972846204,0,52,Tier 3,No Rider,12th,Male,3,Monthly,Married,19258,0,0,1
+12051,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Female,3,Monthly,Married,17572,1,0,0
+12055,972846204,0,42,Tier 2,No Rider,Graduate,Male,3,Annual,Married,33430,1,0,14
+12059,972846204,0,50,Tier 1,No Rider,12th,Male,3,Annual,Married,32639,5,0,0
+12060,972846204,1,29,Tier 1,No Rider,Graduate,Female,4,Monthly,Married,17319,1,1,0
+12061,972846204,0,33,Tier 1,No Rider,12th,Male,3,Semi Annual,Married,26691,0,0,3
+12064,972846204,0,36,Tier 1,No Rider,Professional Degree,Female,3,Quaterlty,Married,20228,0,0,0
+12066,972846204,1,58,Tier 1,No Rider,Graduate,Male,3,Annual,Single,34246,7,1,13
+12067,972846204,0,35,Tier 1,No Rider,Graduate,Female,1,Monthly,Single,17506,3,0,2
+12070,972846204,0,36,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Married,17143,4,0,0
+12072,972846204,0,40,Tier 2,No Rider,12th,Male,4,Quaterlty,Single,20094,6,0,0
+12074,972846204,0,45,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17274,1,0,0
+12075,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,19434,1,0,7
+12077,972846204,0,34,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,17553,1,0,1
+12078,972846204,1,49,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,22654,1,0,7
+12083,972846204,0,28,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19779,1,1,7
+12088,972846204,0,44,Tier 1,No Rider,12th,Male,3,Quaterlty,Single,20933,9,0,2
+12092,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,21201,1,1,4
+12098,972846204,0,52,Tier 2,No Rider,12th,Female,4,Annual,Married,28826,3,0,0
+12099,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,21334,4,0,0
+12100,972846204,0,28,Tier 1,1 Rider,12th,Male,4,Monthly,Married,19936,1,0,0
+12101,972846204,0,22,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,19775,6,0,2
+12109,972846204,0,25,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,19256,1,0,0
+12110,972846204,0,49,Tier 1,No Rider,10th,Female,3,Monthly,Married,18580,2,0,0
+12112,972846204,0,32,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,21524,1,0,5
+12114,972846204,0,42,Tier 1,No Rider,Graduate,Female,1,Quaterlty,Married,20231,2,1,1
+12120,972846204,0,53,Tier 1,No Rider,Graduate,Female,3,Annual,Single,29275,6,0,3
+12121,972846204,0,43,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,20562,4,0,2
+12127,972846204,1,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17795,1,1,0
+12130,972846204,0,28,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,19908,1,0,0
+12143,972846204,0,42,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Single,21244,7,0,0
+12145,972846204,0,58,Tier 1,No Rider,10th,Female,4,Semi Annual,Married,25552,2,1,0
+12149,972846204,0,48,Tier 1,No Rider,12th,Male,3,Monthly,Married,17259,4,0,0
+12155,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,24705,2,0,0
+12159,972846204,1,19,Tier 1,GT 1 Rider,Professional Degree,Male,4,Monthly,Single,17121,1,1,0
+12160,972846204,1,20,Tier 1,No Rider,10th,Male,3,Monthly,Single,17973,1,0,0
+12165,972846204,0,33,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Single,21949,0,0,1
+12167,972846204,0,45,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,19447,1,0,0
+12168,972846204,0,29,Tier 2,GT 1 Rider,10th,Female,3,Monthly,Married,17157,1,0,0
+12171,972846204,1,58,Tier 1,No Rider,10th,Male,3,Monthly,Single,17479,4,0,0
+12173,972846204,0,30,Tier 1,GT 1 Rider,Professional Degree,Male,3,Semi Annual,Married,22264,5,0,7
+12183,972846204,0,33,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18452,3,0,0
+12184,972846204,0,45,Tier 1,No Rider,12th,Female,3,Monthly,Married,17270,3,0,0
+12185,972846204,0,50,Tier 1,No Rider,12th,Male,3,Annual,Married,32399,9,0,1
+12191,972846204,1,30,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17132,4,1,0
+12195,972846204,0,24,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,19377,1,0,3
+12196,972846204,1,35,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Married,18743,1,1,0
+12199,972846204,0,54,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,25739,8,0,0
+12204,972846204,0,26,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,20472,1,0,1
+12207,972846204,0,48,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Single,25999,7,0,4
+12209,972846204,0,39,Tier 1,No Rider,Graduate,Female,4,Annual,Married,27742,1,0,11
+12212,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,33303,6,0,0
+12218,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,21861,8,1,0
+12219,972846204,1,26,Tier 3,GT 1 Rider,12th,Male,5,Quaterlty,Single,19969,8,0,2
+12224,972846204,0,39,Tier 2,No Rider,12th,Female,3,Semi Annual,Single,25880,1,1,2
+12226,972846204,0,45,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Married,32650,3,0,1
+12231,972846204,0,53,Tier 2,GT 1 Rider,Below 10th,Female,4,Semi Annual,Married,22525,2,0,6
+12232,972846204,1,36,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,19834,7,0,0
+12233,972846204,1,26,Tier 2,No Rider,Graduate,Male,3,Monthly,Married,17042,6,1,1
+12239,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,23396,1,0,7
+12241,972846204,0,46,Tier 1,No Rider,12th,Male,3,Annual,Married,34627,9,0,2
+12242,972846204,0,54,Tier 1,GT 1 Rider,Graduate,Female,4,Semi Annual,Married,25686,6,0,7
+12243,972846204,0,56,Tier 2,No Rider,12th,Female,3,Monthly,Married,17942,2,0,0
+12249,972846204,0,46,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,19615,8,1,1
+12250,972846204,1,51,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17461,9,1,2
+12252,972846204,0,26,Tier 1,No Rider,12th,Male,4,Monthly,Married,18955,1,0,1
+12254,972846204,0,41,Tier 1,No Rider,10th,Female,1,Monthly,Married,18376,1,0,0
+12255,972846204,0,38,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,23823,0,0,1
+12258,972846204,0,55,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,25976,3,0,1
+12262,972846204,1,35,Tier 1,GT 1 Rider,10th,Male,3,Semi Annual,Single,24582,0,1,4
+12263,972846204,1,33,Tier 2,No Rider,12th,Female,4,Quaterlty,Single,19508,1,0,3
+12264,972846204,0,28,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17207,1,0,2
+12266,972846204,0,37,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Married,21694,2,1,0
+12270,972846204,0,42,Tier 1,No Rider,12th,Male,3,Annual,Married,32665,0,0,13
+12277,972846204,0,52,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Single,25445,7,0,4
+12280,972846204,0,28,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,22655,0,0,1
+12284,972846204,1,39,Tier 2,No Rider,Graduate,Male,3,Annual,Married,27169,7,0,11
+12290,972846204,0,28,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,18201,0,0,0
+12291,972846204,0,35,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,19968,1,0,0
+12294,972846204,0,29,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,18291,0,0,1
+12296,972846204,0,29,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,20056,1,1,1
+12299,972846204,1,18,Tier 3,No Rider,12th,Male,3,Monthly,Single,16904,1,0,0
+12300,972846204,1,33,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,23224,0,1,0
+12302,972846204,1,31,Tier 2,No Rider,12th,Male,3,Monthly,Married,17610,1,0,2
+12303,972846204,0,37,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,20731,7,0,1
+12304,972846204,0,27,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,17539,1,0,2
+12306,972846204,0,35,Tier 1,1 Rider,10th,Male,3,Monthly,Single,19323,1,0,1
+12307,972846204,1,29,Tier 1,GT 1 Rider,Graduate,Female,4,Semi Annual,Married,22336,1,0,3
+12308,972846204,0,40,Tier 2,No Rider,12th,Female,3,Semi Annual,Single,28499,9,0,2
+12309,972846204,1,42,Tier 2,GT 1 Rider,Graduate,Male,3,Annual,Single,28758,0,1,13
+12310,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,20155,7,0,1
+12312,972846204,0,24,Tier 1,No Rider,12th,Male,3,Monthly,Single,18597,8,0,1
+12314,972846204,0,26,Tier 1,No Rider,12th,Male,1,Monthly,Married,19420,1,0,0
+12315,972846204,0,30,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,21578,1,0,1
+12319,972846204,0,35,Tier 2,No Rider,Professional Degree,Male,4,Monthly,Married,17376,1,0,2
+12320,972846204,1,43,Tier 1,GT 1 Rider,Below 10th,Female,5,Quaterlty,Single,20346,8,0,1
+12321,972846204,0,32,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Married,17827,1,0,0
+12324,972846204,0,19,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17552,1,0,0
+12325,972846204,0,45,Tier 1,No Rider,12th,Female,3,Monthly,Married,19477,4,1,0
+12327,972846204,0,20,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,18033,1,0,1
+12328,972846204,1,44,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17936,1,1,0
+12329,972846204,0,53,Tier 1,No Rider,12th,Female,3,Annual,Married,33606,3,0,4
+12330,972846204,0,29,Tier 1,No Rider,Graduate,Female,5,Monthly,Married,17168,0,1,1
+12332,972846204,0,46,Tier 1,GT 1 Rider,Below 10th,Female,3,Annual,Married,32048,8,0,15
+12333,972846204,0,44,Tier 3,No Rider,Graduate,Male,5,Monthly,Single,17290,2,0,0
+12337,972846204,0,40,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Married,19327,5,0,0
+12339,972846204,0,28,Tier 1,No Rider,12th,Male,4,Monthly,Married,18196,1,0,3
+12340,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Annual,Married,34081,5,0,0
+12341,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,23966,3,1,1
+12342,972846204,1,24,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17210,1,0,0
+12343,972846204,0,33,Tier 2,GT 1 Rider,12th,Female,3,Quaterlty,Married,19539,1,0,0
+12346,972846204,0,44,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Single,19541,1,0,13
+12348,972846204,0,46,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,22379,2,0,1
+12353,972846204,0,36,Tier 1,No Rider,10th,Female,5,Semi Annual,Married,25252,2,1,7
+12354,972846204,0,33,Tier 1,No Rider,12th,Male,3,Monthly,Married,17781,0,0,4
+12355,972846204,0,40,Tier 1,GT 1 Rider,10th,Female,4,Quaterlty,Married,21852,7,0,1
+12356,972846204,0,25,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,19950,0,0,1
+12360,972846204,0,27,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17235,1,1,6
+12361,972846204,0,54,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Married,25502,7,0,1
+12365,972846204,0,54,Tier 1,No Rider,Graduate,Male,3,Annual,Married,32779,3,0,0
+12368,972846204,0,59,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,20171,5,0,0
+12372,972846204,0,48,Tier 1,No Rider,10th,Male,1,Monthly,Single,17559,5,0,0
+12373,972846204,0,27,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17517,1,0,0
+12375,972846204,0,48,Tier 1,No Rider,Graduate,Male,4,Annual,Single,33265,6,0,0
+12377,972846204,0,34,Tier 1,No Rider,10th,Female,1,Monthly,Married,17585,0,0,0
+12382,972846204,1,25,Tier 2,GT 1 Rider,Graduate,Male,5,Monthly,Single,16118,1,1,1
+12383,972846204,0,26,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17875,1,1,2
+12385,972846204,0,55,Tier 3,No Rider,12th,Male,4,Annual,Married,28577,1,1,15
+12386,972846204,1,21,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,17625,1,0,2
+12388,972846204,0,34,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,19538,0,1,0
+12392,972846204,0,28,Tier 2,No Rider,12th,Male,3,Monthly,Single,17154,0,1,0
+12393,972846204,0,44,Tier 1,No Rider,Graduate,Male,1,Annual,Married,34190,1,0,14
+12394,972846204,0,34,Tier 2,1 Rider,Graduate,Male,4,Quaterlty,Married,19490,4,0,1
+12395,972846204,0,35,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18506,0,1,2
+12396,972846204,0,42,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,17372,6,1,0
+12398,972846204,0,36,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,20410,9,1,5
+12399,972846204,1,44,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,22978,1,0,0
+12400,972846204,0,28,Tier 2,No Rider,Graduate,Male,4,Monthly,Married,18867,1,1,2
+12406,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,1,Quaterlty,Married,21209,1,0,0
+12412,972846204,0,30,Tier 1,No Rider,10th,Female,4,Quaterlty,Married,19627,0,0,6
+12416,972846204,0,50,Tier 1,No Rider,Graduate,Female,3,Annual,Married,31880,4,1,1
+12421,972846204,0,31,Tier 3,GT 1 Rider,Graduate,Female,3,Semi Annual,Married,24852,1,1,9
+12422,972846204,0,41,Tier 3,GT 1 Rider,12th,Male,5,Quaterlty,Single,21151,1,0,11
+12424,972846204,1,44,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17362,4,0,1
+12427,972846204,0,56,Tier 1,1 Rider,Graduate,Male,3,Annual,Single,34717,6,0,7
+12428,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Monthly,Married,18544,9,0,0
+12429,972846204,0,34,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Married,23500,0,0,1
+12431,972846204,0,41,Tier 2,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19103,0,0,1
+12434,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21893,3,0,1
+12435,972846204,0,34,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,21125,1,0,9
+12441,972846204,0,27,Tier 1,GT 1 Rider,12th,Female,1,Monthly,Married,17534,8,0,0
+12443,972846204,0,18,Tier 3,No Rider,Graduate,Female,3,Monthly,Single,16611,1,0,0
+12444,972846204,0,35,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,20363,0,0,0
+12445,972846204,0,27,Tier 2,GT 1 Rider,Graduate,Male,5,Quaterlty,Single,20071,3,0,0
+12448,972846204,0,34,Tier 3,No Rider,10th,Female,4,Monthly,Married,17029,1,0,0
+12449,972846204,0,40,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,21377,5,0,11
+12452,972846204,1,35,Tier 2,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19614,0,1,3
+12453,972846204,0,38,Tier 2,No Rider,Graduate,Male,1,Monthly,Married,17610,1,0,0
+12454,972846204,0,34,Tier 1,No Rider,10th,Female,3,Quaterlty,Single,21687,1,0,4
+12455,972846204,0,28,Tier 1,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,19724,1,0,0
+12456,972846204,1,31,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21179,1,1,6
+12458,972846204,0,51,Tier 2,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,25596,2,0,3
+12462,972846204,0,32,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,19078,0,1,1
+12463,972846204,0,39,Tier 3,No Rider,Graduate,Male,3,Semi Annual,Married,25920,3,0,0
+12464,972846204,0,25,Tier 1,GT 1 Rider,Graduate,Male,1,Quaterlty,Married,21232,2,0,1
+12465,972846204,0,52,Tier 2,No Rider,12th,Female,1,Annual,Married,28247,2,1,0
+12470,972846204,0,42,Tier 1,1 Rider,Post Graduate,Female,3,Annual,Married,31799,0,0,0
+12471,972846204,0,52,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,17950,9,0,0
+12472,972846204,0,37,Tier 1,No Rider,12th,Female,3,Monthly,Single,18629,4,0,0
+12475,972846204,0,26,Tier 1,No Rider,Professional Degree,Male,1,Monthly,Single,18578,0,0,0
+12481,972846204,0,55,Tier 1,No Rider,12th,Male,1,Annual,Married,29732,2,0,0
+12484,972846204,0,30,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,19779,7,0,0
+12486,972846204,0,34,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Married,17996,5,0,1
+12487,972846204,1,31,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,16261,1,0,0
+12492,972846204,1,25,Tier 1,GT 1 Rider,Graduate,Male,4,Monthly,Married,19400,3,0,2
+12494,972846204,0,56,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,17066,2,0,1
+12496,972846204,0,24,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Married,19162,1,1,0
+12498,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Monthly,Married,18294,5,0,0
+12499,972846204,0,41,Tier 1,No Rider,12th,Male,1,Monthly,Married,17127,2,1,0
+12500,972846204,0,40,Tier 3,No Rider,Professional Degree,Male,3,Quaterlty,Married,18975,3,0,0
+12501,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,25793,1,0,9
+12505,972846204,0,45,Tier 1,No Rider,12th,Male,5,Semi Annual,Married,25851,2,1,0
+12512,972846204,0,28,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,23463,0,0,1
+12517,972846204,0,44,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18420,1,0,1
+12518,972846204,0,33,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Married,19373,0,0,0
+12519,972846204,0,34,Tier 1,GT 1 Rider,Professional Degree,Male,5,Quaterlty,Single,19759,3,0,3
+12523,972846204,0,30,Tier 3,No Rider,10th,Male,3,Monthly,Married,16274,1,0,0
+12524,972846204,0,57,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,19900,0,0,2
+12528,972846204,1,29,Tier 2,GT 1 Rider,10th,Female,3,Quaterlty,Single,20765,5,0,0
+12530,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Married,17404,1,0,0
+12536,972846204,0,55,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,19035,0,1,1
+12539,972846204,1,28,Tier 2,No Rider,12th,Male,4,Monthly,Single,17561,7,0,0
+12542,972846204,0,49,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,19789,4,0,1
+12543,972846204,0,29,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,18180,0,0,0
+12546,972846204,0,32,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,26244,2,0,0
+12547,972846204,0,54,Tier 2,No Rider,12th,Female,3,Annual,Married,31032,3,0,1
+12548,972846204,1,29,Tier 1,No Rider,10th,Male,4,Monthly,Single,17362,6,0,0
+12550,972846204,0,39,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,23376,4,0,2
+12553,972846204,0,23,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,17272,0,0,1
+12556,972846204,1,31,Tier 2,No Rider,Graduate,Female,3,Monthly,Single,19084,1,0,7
+12557,972846204,0,50,Tier 2,No Rider,12th,Male,5,Annual,Single,29411,1,1,13
+12561,972846204,0,29,Tier 1,No Rider,Professional Degree,Female,5,Quaterlty,Married,24715,3,0,0
+12569,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,19069,3,1,2
+12570,972846204,0,45,Tier 1,No Rider,10th,Male,3,Semi Annual,Married,22441,1,0,7
+12573,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Single,17644,3,1,1
+12582,972846204,1,53,Tier 1,No Rider,10th,Female,4,Semi Annual,Married,25169,0,0,1
+12585,972846204,0,48,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,17367,8,0,7
+12587,972846204,0,55,Tier 1,GT 1 Rider,Below 10th,Male,4,Annual,Married,34586,1,0,2
+12590,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,24924,0,0,7
+12597,972846204,0,50,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,34331,4,1,0
+12599,972846204,0,36,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,20562,3,1,0
+12602,972846204,0,34,Tier 2,No Rider,10th,Male,4,Quaterlty,Married,20063,1,0,7
+12607,972846204,1,28,Tier 1,No Rider,12th,Male,3,Monthly,Married,17408,1,1,0
+12612,972846204,0,30,Tier 1,No Rider,12th,Male,4,Monthly,Married,17141,1,0,1
+12615,972846204,0,31,Tier 2,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Single,20332,7,0,0
+12616,972846204,0,36,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,19663,9,1,1
+12617,972846204,0,34,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,19724,1,0,7
+12621,972846204,0,35,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,20208,1,0,1
+12623,972846204,0,21,Tier 1,No Rider,12th,Male,3,Monthly,Single,18117,1,0,2
+12627,972846204,0,40,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,25435,1,0,14
+12630,972846204,0,39,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,20042,0,0,3
+12632,972846204,0,38,Tier 1,No Rider,12th,Female,4,Semi Annual,Married,22756,3,1,0
+12637,972846204,0,48,Tier 2,No Rider,12th,Male,4,Annual,Married,30202,2,0,2
+12640,972846204,0,27,Tier 1,No Rider,12th,Female,1,Monthly,Married,18517,7,0,0
+12643,972846204,0,29,Tier 1,GT 1 Rider,12th,Male,4,Quaterlty,Single,20869,9,0,1
+12647,972846204,0,49,Tier 1,No Rider,Professional Degree,Female,3,Annual,Married,31413,3,0,1
+12648,972846204,0,50,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,28269,5,0,1
+12651,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17013,2,0,1
+12653,972846204,0,36,Tier 3,No Rider,12th,Female,4,Quaterlty,Married,19374,0,0,1
+12654,972846204,0,36,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,21842,6,0,0
+12655,972846204,0,54,Tier 1,No Rider,12th,Female,3,Annual,Married,32426,3,0,4
+12656,972846204,0,43,Tier 1,No Rider,Graduate,Male,4,Annual,Married,32603,1,0,6
+12658,972846204,0,38,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,19735,7,0,2
+12667,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,22082,3,1,0
+12668,972846204,0,20,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Single,17728,1,0,0
+12669,972846204,0,33,Tier 3,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,20368,1,1,1
+12671,972846204,0,44,Tier 1,1 Rider,Graduate,Female,3,Monthly,Married,18195,4,1,2
+12675,972846204,1,48,Tier 2,GT 1 Rider,12th,Female,3,Monthly,Married,17655,2,1,7
+12676,972846204,1,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,16393,1,0,0
+12679,972846204,0,34,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,18986,1,0,4
+12681,972846204,0,33,Tier 1,No Rider,12th,Male,1,Monthly,Married,17028,1,0,2
+12683,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Monthly,Married,17929,1,0,8
+12688,972846204,0,24,Tier 1,No Rider,12th,Male,1,Monthly,Married,19401,1,0,0
+12691,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,19502,3,0,6
+12696,972846204,0,45,Tier 1,No Rider,10th,Female,4,Annual,Single,31704,1,0,8
+12699,972846204,0,41,Tier 3,1 Rider,Post Graduate,Male,5,Quaterlty,Married,21430,6,0,1
+12717,972846204,1,30,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,17180,6,0,1
+12722,972846204,0,30,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,22140,2,0,1
+12723,972846204,0,34,Tier 1,No Rider,12th,Male,1,Monthly,Married,17932,0,1,1
+12724,972846204,0,33,Tier 3,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,20147,8,0,1
+12725,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,19507,3,0,0
+12726,972846204,1,33,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,23564,2,1,0
+12733,972846204,1,43,Tier 2,No Rider,10th,Male,4,Monthly,Married,17437,9,1,0
+12734,972846204,0,42,Tier 1,No Rider,12th,Male,3,Monthly,Married,17766,8,0,0
+12737,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17289,1,0,0
+12740,972846204,0,43,Tier 1,1 Rider,Graduate,Male,3,Monthly,Single,18539,0,0,1
+12741,972846204,0,34,Tier 1,GT 1 Rider,Graduate,Female,5,Quaterlty,Single,21029,5,0,2
+12744,972846204,1,22,Tier 1,No Rider,12th,Female,3,Monthly,Married,17398,1,1,0
+12746,972846204,0,51,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,28116,2,0,2
+12747,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,19189,1,0,0
+12756,972846204,0,46,Tier 3,GT 1 Rider,Graduate,Male,4,Quaterlty,Single,22991,8,0,2
+12758,972846204,0,42,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,20538,5,0,0
+12760,972846204,0,38,Tier 3,1 Rider,Post Graduate,Male,3,Monthly,Married,17592,5,0,3
+12762,972846204,1,37,Tier 1,No Rider,12th,Male,3,Quaterlty,Single,19213,1,0,0
+12763,972846204,0,39,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,19127,2,0,2
+12764,972846204,0,43,Tier 3,No Rider,Graduate,Male,3,Monthly,Single,17438,4,0,1
+12767,972846204,0,30,Tier 1,No Rider,12th,Female,3,Semi Annual,Single,24667,9,0,0
+12770,972846204,0,40,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,21513,4,0,0
+12771,972846204,0,34,Tier 1,GT 1 Rider,10th,Male,1,Quaterlty,Married,21799,1,0,4
+12772,972846204,0,58,Tier 3,GT 1 Rider,12th,Male,3,Annual,Married,31291,4,0,14
+12777,972846204,0,31,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,24637,2,0,2
+12778,972846204,0,28,Tier 1,No Rider,12th,Female,3,Monthly,Married,18591,1,0,1
+12784,972846204,1,29,Tier 1,1 Rider,Post Graduate,Male,4,Monthly,Married,17335,4,1,2
+12788,972846204,0,27,Tier 2,No Rider,Graduate,Female,3,Monthly,Single,17379,0,1,0
+12791,972846204,0,42,Tier 3,No Rider,10th,Male,3,Monthly,Married,17936,3,0,3
+12794,972846204,0,28,Tier 3,1 Rider,Graduate,Male,3,Monthly,Married,17706,1,0,2
+12795,972846204,0,29,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Married,21384,8,0,1
+12797,972846204,1,32,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Single,24907,7,1,2
+12799,972846204,0,27,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Married,18540,1,0,5
+12802,972846204,0,48,Tier 1,No Rider,Graduate,Male,4,Annual,Married,34665,4,0,12
+12803,972846204,1,29,Tier 2,No Rider,Graduate,Male,4,Monthly,Single,17439,1,1,1
+12806,972846204,0,39,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,18902,8,0,2
+12811,972846204,0,36,Tier 1,GT 1 Rider,10th,Female,4,Quaterlty,Married,20673,1,1,1
+12813,972846204,0,34,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Married,24713,2,1,1
+12814,972846204,0,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17062,3,0,1
+12815,972846204,0,37,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,19284,5,1,0
+12818,972846204,0,36,Tier 2,1 Rider,Post Graduate,Male,4,Quaterlty,Single,18886,1,0,0
+12822,972846204,0,48,Tier 2,No Rider,12th,Female,3,Annual,Married,32174,3,0,4
+12823,972846204,0,44,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,20033,2,0,2
+12829,972846204,0,31,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Married,21583,2,1,1
+12830,972846204,0,34,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Married,23103,3,1,0
+12831,972846204,0,31,Tier 1,No Rider,12th,Female,1,Monthly,Married,18978,8,0,2
+12832,972846204,0,26,Tier 2,No Rider,Professional Degree,Male,1,Monthly,Married,17544,0,0,7
+12837,972846204,0,39,Tier 3,GT 1 Rider,Graduate,Female,5,Quaterlty,Married,20736,6,0,1
+12841,972846204,0,47,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,20467,8,0,1
+12843,972846204,0,39,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20151,1,0,7
+12844,972846204,0,38,Tier 2,No Rider,12th,Female,4,Quaterlty,Married,17133,1,1,0
+12848,972846204,0,49,Tier 2,No Rider,Graduate,Male,3,Annual,Married,34161,3,0,4
+12849,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20087,3,1,0
+12860,972846204,0,31,Tier 2,No Rider,Graduate,Male,5,Quaterlty,Married,20003,1,0,8
+12861,972846204,1,28,Tier 1,No Rider,10th,Male,4,Monthly,Married,17367,5,0,0
+12862,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,4,Monthly,Single,17858,4,0,0
+12867,972846204,1,53,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,25448,6,1,2
+12872,972846204,0,55,Tier 1,1 Rider,Post Graduate,Male,1,Annual,Married,34636,4,1,1
+12875,972846204,0,42,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Single,19332,1,0,3
+12878,972846204,0,24,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,19617,1,0,1
+12884,972846204,0,25,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,18977,6,1,0
+12886,972846204,0,33,Tier 3,No Rider,12th,Male,4,Monthly,Married,17008,1,0,0
+12888,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Married,18067,0,0,1
+12890,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,20410,6,1,1
+12891,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,17782,3,0,1
+12892,972846204,0,47,Tier 3,No Rider,12th,Female,3,Semi Annual,Married,26957,0,0,5
+12893,972846204,0,35,Tier 1,No Rider,12th,Male,3,Monthly,Married,17660,7,1,2
+12895,972846204,0,35,Tier 1,No Rider,12th,Male,3,Quaterlty,Single,20098,1,0,0
+12897,972846204,0,32,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17837,1,0,4
+12899,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,4,Monthly,Married,17269,0,0,2
+12907,972846204,0,21,Tier 1,GT 1 Rider,12th,Male,3,Monthly,Single,17380,1,1,1
+12910,972846204,0,36,Tier 1,GT 1 Rider,12th,Female,4,Semi Annual,Married,22644,0,0,3
+12913,972846204,1,29,Tier 1,No Rider,12th,Male,3,Monthly,Married,19787,9,1,2
+12918,972846204,0,36,Tier 3,GT 1 Rider,Below 10th,Male,5,Quaterlty,Married,20406,1,0,11
+12925,972846204,0,45,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,19850,8,0,0
+12926,972846204,0,40,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,17809,2,0,2
+12929,972846204,0,35,Tier 1,No Rider,Graduate,Female,5,Monthly,Married,17977,1,0,1
+12933,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Female,4,Annual,Married,27031,0,0,9
+12935,972846204,0,26,Tier 1,GT 1 Rider,Professional Degree,Female,4,Monthly,Single,17966,0,0,0
+12941,972846204,1,42,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,21993,9,1,1
+12947,972846204,0,60,Tier 1,No Rider,12th,Female,2,Monthly,Divorsed,18670,5,1,1
+12950,972846204,0,37,Tier 1,No Rider,12th,Male,3,Quaterlty,Divorsed,21237,7,0,8
+12951,972846204,0,36,Tier 1,No Rider,12th,Male,2,Monthly,Divorsed,18426,1,0,1
+12959,972846204,0,54,Tier 1,GT 1 Rider,Graduate,Female,4,Annual,Divorsed,31427,3,0,4
+12963,972846204,0,35,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,27994,1,0,3
+12969,972846204,0,45,Tier 1,No Rider,12th,Female,4,Semi Annual,Divorsed,26248,4,0,6
+12973,972846204,0,31,Tier 1,No Rider,12th,Male,4,Monthly,Single,18206,2,0,2
+12980,972846204,0,34,Tier 2,GT 1 Rider,Graduate,Female,2,Quaterlty,Divorsed,21376,3,0,2
+12988,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,19022,5,0,1
+12991,972846204,1,49,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Single,21381,10,1,1
+12992,972846204,1,29,Tier 1,No Rider,10th,Male,3,Monthly,Single,19441,2,1,3
+12994,972846204,0,36,Tier 3,No Rider,12th,Male,4,Semi Annual,Divorsed,25884,3,1,3
+12995,972846204,0,27,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Divorsed,20157,8,1,1
+12998,972846204,0,36,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,20014,4,1,3
+13002,972846204,0,39,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Single,18406,2,0,10
+13003,972846204,0,51,Tier 1,No Rider,12th,Female,4,Annual,Married,34740,6,1,14
+13004,972846204,0,60,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,23637,8,0,8
+13011,972846204,0,60,Tier 2,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,21473,8,0,2
+13014,972846204,0,33,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Divorsed,22220,2,0,1
+13027,972846204,0,24,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,18322,4,0,1
+13028,972846204,0,52,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18075,4,0,1
+13030,972846204,1,47,Tier 1,GT 1 Rider,12th,Male,4,Semi Annual,Single,25619,2,0,5
+13036,972846204,0,55,Tier 1,No Rider,10th,Female,3,Semi Annual,Divorsed,29549,10,0,1
+13039,972846204,0,59,Tier 1,GT 1 Rider,12th,Male,3,Annual,Single,29872,1,0,2
+13040,972846204,0,45,Tier 3,No Rider,12th,Male,3,Quaterlty,Divorsed,18042,5,0,2
+13046,972846204,0,60,Tier 3,1 Rider,Post Graduate,Female,4,Annual,Divorsed,34844,10,0,3
+13047,972846204,0,51,Tier 2,No Rider,Graduate,Female,3,Annual,Divorsed,34172,4,1,1
+13049,972846204,0,26,Tier 1,No Rider,12th,Male,4,Monthly,Divorsed,18889,2,0,3
+13050,972846204,0,23,Tier 1,No Rider,12th,Female,3,Monthly,Single,18871,2,0,1
+13052,972846204,1,35,Tier 2,No Rider,Graduate,Male,5,Quaterlty,Single,22074,2,1,1
+13056,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,23428,3,0,2
+13057,972846204,0,35,Tier 1,No Rider,12th,Female,4,Semi Annual,Single,27631,3,0,6
+13064,972846204,0,52,Tier 1,No Rider,Graduate,Male,3,Annual,Single,35537,8,0,16
+13071,972846204,0,44,Tier 2,No Rider,12th,Female,2,Monthly,Single,20739,5,0,2
+13077,972846204,1,52,Tier 2,No Rider,Graduate,Male,5,Semi Annual,Single,26650,3,0,1
+13086,972846204,0,31,Tier 1,No Rider,10th,Female,3,Monthly,Married,19204,6,0,3
+13087,972846204,0,31,Tier 1,No Rider,12th,Male,4,Monthly,Single,18720,1,0,2
+13088,972846204,0,42,Tier 2,No Rider,Graduate,Male,4,Annual,Married,33181,5,0,8
+13090,972846204,0,20,Tier 1,No Rider,12th,Female,3,Monthly,Single,17483,2,0,1
+13095,972846204,0,33,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,24998,2,0,4
+13098,972846204,0,59,Tier 1,No Rider,12th,Female,4,Monthly,Divorsed,19346,5,1,1
+13101,972846204,0,23,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,18323,2,0,3
+13104,972846204,0,58,Tier 1,No Rider,Graduate,Male,2,Semi Annual,Married,25439,4,1,2
+13110,972846204,0,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19038,4,0,2
+13111,972846204,0,28,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,19058,1,1,2
+13112,972846204,1,20,Tier 2,GT 1 Rider,10th,Female,5,Monthly,Single,18325,1,0,1
+13115,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21006,5,1,1
+13119,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,26453,2,0,16
+13120,972846204,0,39,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18288,2,0,3
+13121,972846204,0,32,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,19929,9,1,1
+13122,972846204,0,35,Tier 1,No Rider,12th,Female,3,Monthly,Single,18311,3,0,2
+13124,972846204,0,51,Tier 1,No Rider,12th,Male,4,Monthly,Divorsed,19690,3,0,1
+13126,972846204,0,34,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,18756,2,0,2
+13127,972846204,0,41,Tier 1,No Rider,12th,Female,3,Annual,Divorsed,35033,2,0,10
+13129,972846204,0,35,Tier 2,No Rider,Graduate,Male,4,Quaterlty,Divorsed,25547,2,0,2
+13135,972846204,0,46,Tier 3,No Rider,12th,Male,4,Annual,Divorsed,32792,10,0,12
+13136,972846204,0,38,Tier 1,No Rider,Graduate,Male,2,Monthly,Divorsed,19564,2,1,2
+13137,972846204,0,36,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,20425,6,0,2
+13138,972846204,0,43,Tier 3,No Rider,12th,Female,3,Quaterlty,Married,21265,3,0,1
+13146,972846204,1,30,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Divorsed,23639,2,0,2
+13147,972846204,0,23,Tier 1,No Rider,Graduate,Male,2,Monthly,Married,18328,2,1,3
+13149,972846204,0,41,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Divorsed,20876,10,0,1
+13151,972846204,1,33,Tier 1,GT 1 Rider,12th,Male,5,Semi Annual,Divorsed,26400,2,0,10
+13152,972846204,0,31,Tier 3,No Rider,Graduate,Male,4,Semi Annual,Single,24474,2,0,6
+13157,972846204,1,31,Tier 2,GT 1 Rider,Below 10th,Female,4,Quaterlty,Single,22696,6,0,1
+13158,972846204,1,30,Tier 1,No Rider,10th,Male,3,Monthly,Single,18058,1,0,2
+13159,972846204,0,46,Tier 3,GT 1 Rider,12th,Female,4,Semi Annual,Single,24865,7,0,13
+13162,972846204,0,34,Tier 1,No Rider,12th,Female,4,Monthly,Divorsed,18622,7,0,2
+13167,972846204,0,38,Tier 2,GT 1 Rider,Below 10th,Male,3,Monthly,Married,18177,5,0,6
+13168,972846204,0,30,Tier 2,GT 1 Rider,12th,Female,3,Semi Annual,Divorsed,23918,2,0,5
+13170,972846204,1,30,Tier 1,No Rider,12th,Male,4,Monthly,Single,18389,2,1,1
+13172,972846204,0,43,Tier 1,No Rider,10th,Male,3,Annual,Divorsed,35232,2,0,12
+13173,972846204,0,60,Tier 1,1 Rider,12th,Male,3,Monthly,Divorsed,18267,9,0,3
+13174,972846204,0,51,Tier 1,GT 1 Rider,12th,Female,3,Annual,Married,35517,4,0,1
+13180,972846204,1,33,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,19730,1,1,2
+13182,972846204,0,33,Tier 3,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,20465,1,0,3
+13184,972846204,0,41,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,19319,2,0,5
+13185,972846204,0,46,Tier 1,No Rider,Professional Degree,Male,2,Annual,Divorsed,35202,1,0,2
+13186,972846204,0,32,Tier 2,No Rider,12th,Male,3,Semi Annual,Married,29675,10,0,3
+13187,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Monthly,Divorsed,18911,2,0,1
+13189,972846204,0,38,Tier 1,No Rider,12th,Female,4,Monthly,Divorsed,19920,3,0,1
+13190,972846204,0,46,Tier 2,No Rider,Graduate,Male,2,Quaterlty,Divorsed,22434,5,0,1
+13194,972846204,0,43,Tier 1,No Rider,Graduate,Female,2,Quaterlty,Single,22545,4,1,1
+13205,972846204,1,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19485,3,0,1
+13211,972846204,0,56,Tier 1,No Rider,12th,Male,3,Annual,Single,35045,1,1,5
+13213,972846204,0,29,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,18070,2,0,1
+13219,972846204,0,27,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,22397,2,0,2
+13221,972846204,0,54,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,33584,4,1,2
+13222,972846204,0,43,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,20907,2,0,12
+13223,972846204,0,30,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20554,2,0,1
+13226,972846204,0,38,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18115,2,0,6
+13229,972846204,1,27,Tier 1,No Rider,12th,Male,3,Monthly,Married,18373,3,1,1
+13230,972846204,0,29,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,19310,2,0,1
+13237,972846204,1,19,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17420,2,0,1
+13238,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Divorsed,24020,1,0,7
+13239,972846204,0,37,Tier 2,No Rider,Graduate,Male,2,Monthly,Divorsed,19688,5,0,1
+13240,972846204,0,52,Tier 1,No Rider,12th,Male,5,Quaterlty,Married,21482,6,0,2
+13241,972846204,0,42,Tier 1,GT 1 Rider,Graduate,Male,3,Annual,Single,32015,2,0,1
+13245,972846204,0,40,Tier 1,No Rider,12th,Male,2,Semi Annual,Married,25613,1,0,4
+13249,972846204,0,59,Tier 3,No Rider,Graduate,Male,5,Quaterlty,Married,21660,3,1,2
+13251,972846204,0,32,Tier 1,1 Rider,Post Graduate,Male,4,Quaterlty,Divorsed,22410,4,0,2
+13252,972846204,0,46,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,21210,2,0,10
+13253,972846204,0,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18695,1,1,3
+13254,972846204,0,34,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Divorsed,27878,7,0,9
+13255,972846204,0,40,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,33068,2,1,12
+13256,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Monthly,Single,18455,1,0,2
+13258,972846204,1,53,Tier 1,No Rider,12th,Male,4,Quaterlty,Divorsed,20941,3,0,8
+13261,972846204,0,28,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20478,2,1,1
+13262,972846204,0,32,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,23547,5,0,2
+13264,972846204,1,29,Tier 1,No Rider,12th,Male,5,Monthly,Divorsed,19464,6,1,3
+13265,972846204,0,31,Tier 1,No Rider,12th,Female,3,Quaterlty,Divorsed,21775,2,0,2
+13267,972846204,0,40,Tier 2,No Rider,12th,Male,4,Annual,Divorsed,35272,2,0,14
+13276,972846204,0,41,Tier 1,GT 1 Rider,12th,Male,5,Quaterlty,Divorsed,23457,3,1,1
+13278,972846204,0,30,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Single,19983,1,0,3
+13282,972846204,0,39,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Married,27510,1,1,3
+13286,972846204,0,24,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18904,2,0,1
+13288,972846204,0,48,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Single,18976,4,0,1
+13292,972846204,0,33,Tier 1,No Rider,12th,Female,3,Monthly,Divorsed,18370,2,0,1
+13300,972846204,0,37,Tier 2,GT 1 Rider,12th,Male,4,Semi Annual,Divorsed,25699,5,0,2
+13302,972846204,0,41,Tier 1,No Rider,Graduate,Female,2,Monthly,Divorsed,18213,4,1,2
+13306,972846204,0,47,Tier 3,No Rider,12th,Female,3,Quaterlty,Divorsed,21258,3,0,1
+13307,972846204,1,42,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,25355,2,0,8
+13309,972846204,1,41,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Divorsed,22380,3,1,2
+13311,972846204,1,22,Tier 1,GT 1 Rider,Graduate,Female,2,Monthly,Single,18716,2,0,1
+13316,972846204,0,50,Tier 1,No Rider,Professional Degree,Male,4,Semi Annual,Single,26965,9,0,1
+13318,972846204,0,37,Tier 1,No Rider,Graduate,Female,3,Monthly,Divorsed,18543,5,0,3
+13321,972846204,0,25,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20260,2,1,1
+13326,972846204,1,31,Tier 2,No Rider,10th,Male,3,Monthly,Single,18285,19,1,1
+13327,972846204,0,38,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,19034,2,0,13
+13333,972846204,0,55,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,35406,5,0,2
+13337,972846204,0,44,Tier 1,No Rider,Professional Degree,Female,3,Quaterlty,Married,20522,5,1,1
+13338,972846204,0,26,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Single,20487,2,1,2
+13340,972846204,0,32,Tier 1,No Rider,Graduate,Male,4,Monthly,Divorsed,18218,2,0,4
+13342,972846204,0,57,Tier 2,GT 1 Rider,Graduate,Female,2,Annual,Divorsed,29212,10,0,8
+13344,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Male,2,Semi Annual,Divorsed,24392,2,0,1
+13346,972846204,1,26,Tier 1,No Rider,12th,Male,3,Monthly,Divorsed,20031,6,0,1
+13348,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18654,4,0,1
+13349,972846204,0,53,Tier 1,No Rider,Graduate,Female,3,Annual,Divorsed,32555,3,0,2
+13352,972846204,0,61,Tier 1,No Rider,Graduate,Female,3,Annual,Divorsed,35566,6,0,12
+13357,972846204,0,39,Tier 2,No Rider,Graduate,Male,3,Monthly,Divorsed,17702,2,1,1
+13358,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Divorsed,34041,1,0,2
+13360,972846204,0,31,Tier 3,No Rider,Graduate,Male,3,Monthly,Divorsed,18097,5,0,2
+13364,972846204,0,31,Tier 3,GT 1 Rider,Professional Degree,Female,3,Semi Annual,Divorsed,24412,1,0,8
+13365,972846204,0,58,Tier 1,GT 1 Rider,Below 10th,Male,4,Annual,Married,30118,4,0,1
+13366,972846204,0,51,Tier 1,No Rider,Graduate,Male,4,Annual,Divorsed,33046,1,0,16
+13367,972846204,0,31,Tier 3,No Rider,12th,Female,3,Monthly,Single,18564,1,0,7
+13368,972846204,0,61,Tier 2,GT 1 Rider,Below 10th,Female,4,Semi Annual,Divorsed,26266,5,0,14
+13370,972846204,0,47,Tier 1,No Rider,Graduate,Male,3,Annual,Divorsed,33861,7,0,1
+13374,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Female,4,Semi Annual,Divorsed,25071,3,1,2
+13379,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Divorsed,23632,5,1,1
+13382,972846204,0,43,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Divorsed,18093,5,0,3
+13385,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Divorsed,20051,3,0,7
+13387,972846204,0,42,Tier 3,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,22230,8,0,2
+13391,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,22582,5,1,1
+13395,972846204,0,30,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,20262,5,0,2
+13396,972846204,0,34,Tier 1,No Rider,12th,Female,2,Annual,Married,32184,5,0,1
+13398,972846204,1,19,Tier 2,GT 1 Rider,Below 10th,Male,3,Monthly,Single,17878,2,1,1
+13401,972846204,0,27,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,20306,6,0,1
+13403,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Male,2,Quaterlty,Single,21337,2,0,6
+13406,972846204,0,47,Tier 2,No Rider,12th,Female,3,Semi Annual,Divorsed,26527,6,0,2
+13410,972846204,1,33,Tier 3,GT 1 Rider,Professional Degree,Male,2,Quaterlty,Divorsed,20707,9,0,2
+13412,972846204,0,39,Tier 1,No Rider,12th,Female,3,Quaterlty,Divorsed,25824,4,0,1
+13414,972846204,0,50,Tier 1,No Rider,Graduate,Male,4,Annual,Married,35502,2,1,1
+13416,972846204,0,27,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,22272,2,0,2
+13420,972846204,1,25,Tier 2,No Rider,Graduate,Female,3,Monthly,Divorsed,18886,2,1,2
+13425,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,2,Quaterlty,Married,21460,5,0,6
+13426,972846204,0,28,Tier 1,No Rider,12th,Female,4,Monthly,Married,18187,1,0,1
+13428,972846204,0,21,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,18836,2,0,1
+13441,972846204,0,33,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,22322,2,1,1
+13443,972846204,0,54,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,24381,8,0,9
+13445,972846204,1,46,Tier 2,GT 1 Rider,Graduate,Female,3,Quaterlty,Divorsed,20286,3,0,1
+13451,972846204,0,55,Tier 1,1 Rider,12th,Male,3,Semi Annual,Divorsed,26725,3,0,8
+13458,972846204,0,26,Tier 1,GT 1 Rider,Graduate,Male,2,Quaterlty,Divorsed,20851,1,0,2
+13461,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Male,2,Quaterlty,Divorsed,24120,4,0,3
+13462,972846204,0,28,Tier 2,GT 1 Rider,12th,Female,2,Quaterlty,Married,20647,2,1,1
+13464,972846204,0,51,Tier 1,No Rider,12th,Male,2,Monthly,Divorsed,19221,2,1,4
+13466,972846204,1,25,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,20577,10,0,3
+13468,972846204,0,33,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,21396,2,0,1
+13476,972846204,0,42,Tier 1,1 Rider,Post Graduate,Male,4,Annual,Married,35141,4,0,13
+13477,972846204,0,61,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,21405,9,0,3
+13478,972846204,0,28,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,24793,2,0,2
+13482,972846204,0,37,Tier 3,No Rider,Graduate,Female,2,Semi Annual,Divorsed,27713,10,0,1
+13484,972846204,0,45,Tier 3,No Rider,12th,Male,5,Monthly,Single,19708,3,0,2
+13485,972846204,0,48,Tier 2,GT 1 Rider,12th,Female,3,Annual,Married,29770,10,1,12
+13487,972846204,0,30,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Single,18642,2,0,1
+13489,972846204,0,44,Tier 2,GT 1 Rider,Graduate,Male,4,Quaterlty,Divorsed,22804,4,0,3
+13492,972846204,0,40,Tier 1,1 Rider,Post Graduate,Female,2,Quaterlty,Divorsed,22389,10,0,4
+13493,972846204,0,57,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,27103,8,0,2
+13495,972846204,0,28,Tier 1,No Rider,12th,Female,4,Quaterlty,Single,22811,9,0,1
+13499,972846204,0,33,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Divorsed,21309,2,0,5
+13503,972846204,1,34,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Single,18686,2,1,8
+13505,972846204,0,46,Tier 1,GT 1 Rider,10th,Male,5,Quaterlty,Single,22632,1,0,4
+13506,972846204,0,24,Tier 1,No Rider,12th,Male,2,Monthly,Single,19505,2,0,1
+13508,972846204,0,35,Tier 1,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Single,22274,2,0,2
+13514,972846204,1,27,Tier 1,GT 1 Rider,10th,Male,4,Quaterlty,Single,21326,7,0,2
+13518,972846204,0,38,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18782,1,1,5
+13520,972846204,0,35,Tier 1,No Rider,12th,Female,4,Monthly,Single,20381,2,0,2
+13521,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Monthly,Divorsed,18572,2,0,1
+13527,972846204,0,25,Tier 3,No Rider,Graduate,Male,4,Monthly,Married,18694,2,0,1
+13528,972846204,0,53,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,19149,9,0,2
+13529,972846204,0,51,Tier 1,No Rider,12th,Male,3,Annual,Divorsed,33639,6,0,1
+13530,972846204,1,30,Tier 1,No Rider,Graduate,Female,4,Monthly,Divorsed,18319,2,1,1
+13532,972846204,1,34,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,21324,6,0,1
+13536,972846204,1,59,Tier 1,No Rider,Graduate,Male,3,Annual,Single,35246,8,1,14
+13537,972846204,0,36,Tier 1,No Rider,Graduate,Female,1,Monthly,Single,18506,4,0,3
+13548,972846204,1,50,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Divorsed,23654,2,0,8
+13555,972846204,1,27,Tier 2,No Rider,12th,Female,4,Monthly,Divorsed,18366,2,1,2
+13559,972846204,0,26,Tier 1,No Rider,12th,Male,1,Monthly,Single,19424,8,0,1
+13562,972846204,0,37,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,22201,2,1,5
+13566,972846204,0,46,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,26761,5,1,1
+13571,972846204,0,23,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Divorsed,20775,7,0,3
+13575,972846204,0,26,Tier 1,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Divorsed,20194,2,1,1
+13576,972846204,0,36,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Divorsed,26685,2,1,6
+13580,972846204,0,50,Tier 1,No Rider,10th,Female,3,Monthly,Divorsed,19580,3,0,1
+13581,972846204,0,25,Tier 3,No Rider,Graduate,Male,4,Monthly,Divorsed,19162,1,0,4
+13582,972846204,0,33,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,22524,2,0,6
+13583,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Male,4,Monthly,Divorsed,18899,1,0,2
+13584,972846204,0,43,Tier 1,No Rider,Graduate,Female,1,Quaterlty,Divorsed,21231,3,1,2
+13585,972846204,0,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18356,4,1,1
+13590,972846204,0,54,Tier 1,No Rider,Graduate,Female,3,Annual,Single,30275,7,0,4
+13591,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Divorsed,21562,5,0,3
+13594,972846204,0,51,Tier 3,No Rider,Graduate,Male,3,Annual,Married,33924,2,0,15
+13596,972846204,0,34,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Married,18277,4,1,1
+13599,972846204,0,45,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18559,2,1,8
+13602,972846204,0,44,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,20765,5,0,1
+13603,972846204,1,21,Tier 1,GT 1 Rider,12th,Female,4,Monthly,Single,18044,2,0,1
+13604,972846204,1,22,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Single,18693,2,0,1
+13605,972846204,0,37,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Divorsed,22586,1,1,5
+13606,972846204,0,48,Tier 1,GT 1 Rider,Graduate,Female,4,Monthly,Single,19294,2,1,2
+13614,972846204,0,34,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Single,18799,4,1,1
+13617,972846204,0,36,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Divorsed,20014,2,1,1
+13624,972846204,1,26,Tier 1,GT 1 Rider,Below 10th,Male,4,Monthly,Divorsed,18413,2,1,1
+13625,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,25705,3,0,1
+13626,972846204,0,27,Tier 2,GT 1 Rider,12th,Male,4,Quaterlty,Single,20294,2,0,1
+13628,972846204,0,37,Tier 1,No Rider,12th,Male,3,Monthly,Single,18519,5,0,4
+13631,972846204,0,32,Tier 1,No Rider,12th,Female,3,Quaterlty,Divorsed,21855,1,1,9
+13635,972846204,0,34,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Single,22949,1,0,2
+13638,972846204,0,30,Tier 2,GT 1 Rider,10th,Female,3,Monthly,Divorsed,18157,2,0,1
+13644,972846204,0,39,Tier 3,GT 1 Rider,10th,Female,3,Quaterlty,Single,21666,2,1,2
+13655,972846204,0,51,Tier 1,No Rider,12th,Male,3,Annual,Married,33399,10,0,2
+13656,972846204,0,34,Tier 2,No Rider,Professional Degree,Female,1,Quaterlty,Divorsed,21488,2,1,2
+13659,972846204,0,46,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Divorsed,19633,2,1,1
+13660,972846204,0,48,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,20163,2,1,1
+13662,972846204,0,51,Tier 1,No Rider,Graduate,Male,3,Annual,Divorsed,29973,4,1,2
+13664,972846204,0,47,Tier 1,No Rider,12th,Male,3,Semi Annual,Married,26845,7,0,1
+13665,972846204,0,25,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,20377,2,0,4
+13668,972846204,0,19,Tier 3,No Rider,Graduate,Male,3,Monthly,Single,17051,2,0,1
+13670,972846204,0,36,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,26388,2,1,11
+13678,972846204,0,42,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,21003,7,0,3
+13681,972846204,0,36,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,19917,2,0,2
+13685,972846204,1,38,Tier 1,No Rider,12th,Female,5,Quaterlty,Divorsed,20777,6,0,1
+13687,972846204,0,42,Tier 3,No Rider,Graduate,Female,5,Annual,Married,35973,2,0,6
+13692,972846204,0,51,Tier 3,GT 1 Rider,Graduate,Female,3,Quaterlty,Divorsed,22347,1,0,1
+13694,972846204,0,40,Tier 2,No Rider,12th,Female,3,Semi Annual,Single,26880,2,1,3
+13696,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Divorsed,33650,4,0,2
+13700,972846204,0,46,Tier 1,1 Rider,12th,Male,3,Monthly,Single,18177,2,0,1
+13706,972846204,0,39,Tier 2,No Rider,Professional Degree,Male,3,Monthly,Divorsed,18821,4,0,3
+13710,972846204,0,27,Tier 2,No Rider,12th,Female,4,Monthly,Married,18007,2,0,2
+13712,972846204,0,55,Tier 1,GT 1 Rider,Graduate,Female,4,Semi Annual,Divorsed,26686,7,0,8
+13723,972846204,0,31,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Divorsed,25957,1,0,1
+13731,972846204,0,34,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Married,23119,5,0,2
+13733,972846204,1,34,Tier 2,No Rider,12th,Female,4,Quaterlty,Single,20508,2,0,4
+13735,972846204,0,35,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Single,23756,1,0,1
+13737,972846204,1,26,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,19691,2,1,6
+13742,972846204,1,51,Tier 2,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Single,20728,4,1,1
+13744,972846204,0,35,Tier 3,No Rider,Graduate,Male,4,Monthly,Divorsed,18979,4,0,1
+13745,972846204,0,49,Tier 3,No Rider,12th,Male,1,Annual,Single,32885,3,0,3
+13746,972846204,0,46,Tier 3,GT 1 Rider,Graduate,Female,4,Quaterlty,Divorsed,21593,2,0,5
+13750,972846204,0,29,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,23655,1,0,2
+13751,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Divorsed,33465,4,0,5
+13753,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Divorsed,26820,9,0,1
+13754,972846204,1,40,Tier 2,No Rider,Graduate,Male,3,Annual,Married,28169,8,0,12
+13761,972846204,0,36,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20968,2,0,1
+13763,972846204,0,35,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Single,20033,3,0,1
+13771,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,20766,4,1,1
+13772,972846204,1,32,Tier 2,No Rider,12th,Male,3,Monthly,Divorsed,18610,2,0,3
+13773,972846204,0,38,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,21731,8,0,2
+13777,972846204,1,30,Tier 1,GT 1 Rider,Graduate,Female,4,Semi Annual,Divorsed,23336,2,0,4
+13778,972846204,0,41,Tier 2,No Rider,12th,Female,3,Semi Annual,Single,29499,10,0,3
+13779,972846204,1,43,Tier 2,GT 1 Rider,Graduate,Male,3,Annual,Single,29758,1,1,14
+13783,972846204,1,29,Tier 1,No Rider,Graduate,Female,3,Monthly,Divorsed,18515,2,1,1
+13786,972846204,0,41,Tier 2,No Rider,12th,Female,4,Quaterlty,Divorsed,20422,4,1,1
+13789,972846204,0,36,Tier 2,No Rider,Professional Degree,Male,4,Monthly,Divorsed,18376,2,0,3
+13791,972846204,0,33,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Married,18827,2,0,1
+13792,972846204,0,57,Tier 1,No Rider,10th,Female,3,Annual,Married,35943,5,0,5
+13799,972846204,0,54,Tier 1,No Rider,12th,Female,3,Annual,Married,34606,4,0,5
+13803,972846204,0,45,Tier 3,No Rider,Graduate,Male,5,Monthly,Single,18290,3,0,1
+13821,972846204,0,33,Tier 2,No Rider,Professional Degree,Female,4,Monthly,Divorsed,18743,2,0,3
+13830,972846204,0,28,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18235,2,1,7
+13832,972846204,0,45,Tier 1,No Rider,Graduate,Female,1,Monthly,Divorsed,18011,2,0,8
+13834,972846204,0,30,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,19760,2,0,2
+13837,972846204,0,32,Tier 1,No Rider,12th,Female,4,Quaterlty,Single,22812,2,0,2
+13841,972846204,0,37,Tier 2,No Rider,10th,Male,3,Monthly,Divorsed,19692,2,0,1
+13845,972846204,0,49,Tier 1,No Rider,Graduate,Male,4,Annual,Single,34265,7,0,1
+13846,972846204,0,30,Tier 1,No Rider,Graduate,Female,4,Annual,Married,32124,4,0,2
+13854,972846204,1,46,Tier 1,GT 1 Rider,Below 10th,Female,5,Annual,Single,34824,3,1,2
+13857,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Female,4,Annual,Divorsed,34789,3,0,1
+13860,972846204,0,60,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,26512,7,0,6
+13862,972846204,0,29,Tier 2,No Rider,12th,Male,3,Monthly,Single,18154,1,1,1
+13869,972846204,1,45,Tier 1,No Rider,12th,Female,3,Semi Annual,Divorsed,23978,2,0,1
+13871,972846204,0,52,Tier 2,No Rider,12th,Female,4,Monthly,Single,18838,1,0,8
+13873,972846204,1,30,Tier 1,No Rider,10th,Female,3,Monthly,Married,19339,4,1,8
+13878,972846204,0,40,Tier 1,No Rider,12th,Female,4,Annual,Married,33123,7,1,16
+13882,972846204,0,31,Tier 1,No Rider,10th,Female,4,Quaterlty,Divorsed,20627,1,0,7
+13891,972846204,0,32,Tier 3,GT 1 Rider,Graduate,Female,3,Semi Annual,Married,25852,2,1,10
+13892,972846204,0,42,Tier 3,GT 1 Rider,12th,Male,5,Quaterlty,Single,22151,2,0,12
+13893,972846204,1,32,Tier 2,GT 1 Rider,Graduate,Female,3,Monthly,Single,18302,2,1,3
+13896,972846204,0,56,Tier 1,No Rider,12th,Female,5,Annual,Divorsed,35187,5,0,10
+13897,972846204,0,57,Tier 1,1 Rider,Graduate,Male,3,Annual,Single,35717,7,0,8
+13898,972846204,0,41,Tier 3,No Rider,Graduate,Male,3,Monthly,Married,19544,10,0,1
+13900,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,20661,2,0,9
+13908,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18387,4,0,1
+13909,972846204,0,37,Tier 2,GT 1 Rider,Below 10th,Female,1,Quaterlty,Divorsed,20639,3,0,7
+13910,972846204,0,49,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Single,23898,2,0,1
+13913,972846204,0,19,Tier 3,No Rider,Graduate,Female,3,Monthly,Single,17611,2,0,1
+13916,972846204,1,56,Tier 1,GT 1 Rider,Below 10th,Male,1,Annual,Single,29695,7,1,4
+13919,972846204,0,41,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,22377,6,0,12
+13920,972846204,0,35,Tier 1,No Rider,12th,Male,3,Quaterlty,Divorsed,21429,5,0,8
+13924,972846204,0,35,Tier 1,No Rider,10th,Female,3,Quaterlty,Single,22687,2,0,5
+13930,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18996,8,1,2
+13931,972846204,0,34,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Divorsed,25998,7,0,2
+13935,972846204,0,53,Tier 2,No Rider,12th,Female,1,Annual,Divorsed,29247,3,1,1
+13937,972846204,0,28,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Divorsed,21769,2,1,5
+13945,972846204,0,27,Tier 1,No Rider,Professional Degree,Male,1,Monthly,Single,19578,1,0,1
+13948,972846204,1,30,Tier 2,No Rider,Professional Degree,Female,3,Semi Annual,Single,23553,1,1,8
+13950,972846204,0,59,Tier 1,No Rider,12th,Female,3,Annual,Divorsed,35701,4,1,2
+13952,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,25278,4,1,1
+13955,972846204,0,32,Tier 1,No Rider,Graduate,Female,3,Annual,Single,32422,4,0,2
+13958,972846204,0,28,Tier 1,No Rider,Graduate,Male,3,Monthly,Divorsed,18099,1,0,2
+13959,972846204,0,37,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,21810,2,0,2
+13961,972846204,0,48,Tier 1,No Rider,10th,Male,3,Monthly,Divorsed,19420,8,0,2
+13962,972846204,1,26,Tier 1,GT 1 Rider,Graduate,Male,4,Monthly,Divorsed,20400,4,0,3
+13967,972846204,0,33,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Divorsed,25204,5,0,1
+13969,972846204,0,42,Tier 1,No Rider,12th,Male,1,Monthly,Divorsed,18127,3,1,1
+13972,972846204,1,47,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,26096,5,0,5
+13976,972846204,0,32,Tier 1,1 Rider,12th,Female,1,Monthly,Single,18109,10,0,1
+13977,972846204,1,32,Tier 2,No Rider,Graduate,Male,3,Monthly,Divorsed,19722,7,1,3
+13979,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,21486,5,0,3
+13980,972846204,1,35,Tier 1,1 Rider,10th,Female,3,Monthly,Divorsed,18742,2,0,3
+13984,972846204,0,54,Tier 1,No Rider,12th,Male,1,Annual,Single,32598,5,0,9
+13986,972846204,0,41,Tier 1,No Rider,12th,Male,3,Monthly,Married,18345,3,0,2
+13987,972846204,0,45,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19420,2,0,2
+13988,972846204,0,34,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Divorsed,20373,1,0,1
+13989,972846204,0,35,Tier 1,GT 1 Rider,Professional Degree,Male,5,Quaterlty,Single,20759,4,0,4
+13997,972846204,1,29,Tier 2,GT 1 Rider,10th,Male,3,Monthly,Divorsed,18909,4,0,2
+14001,972846204,1,25,Tier 2,No Rider,12th,Male,3,Monthly,Single,19172,3,1,1
+14002,972846204,0,25,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Divorsed,18033,2,0,1
+14005,972846204,0,31,Tier 1,1 Rider,Graduate,Male,3,Monthly,Married,18064,1,0,2
+14007,972846204,0,34,Tier 1,No Rider,12th,Female,4,Monthly,Divorsed,19838,9,0,1
+14010,972846204,0,29,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,17563,2,0,1
+14015,972846204,0,34,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,22388,3,1,1
+14016,972846204,0,33,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,27244,3,0,1
+14017,972846204,0,55,Tier 2,No Rider,12th,Female,3,Annual,Married,32032,4,0,2
+14022,972846204,0,36,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Single,24606,2,0,4
+14025,972846204,0,35,Tier 1,GT 1 Rider,10th,Male,4,Semi Annual,Divorsed,23083,2,1,9
+14028,972846204,0,35,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,18308,1,1,6
+14029,972846204,0,43,Tier 1,No Rider,12th,Male,4,Monthly,Married,20841,5,0,1
+14030,972846204,0,38,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20285,2,0,4
+14031,972846204,0,30,Tier 1,No Rider,Professional Degree,Female,5,Quaterlty,Married,25715,4,0,1
+14033,972846204,0,46,Tier 1,No Rider,10th,Male,3,Monthly,Married,18132,5,0,1
+14035,972846204,0,41,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,21473,1,0,8
+14036,972846204,0,34,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21207,2,1,6
+14040,972846204,0,46,Tier 1,No Rider,10th,Male,3,Semi Annual,Married,23441,2,0,8
+14041,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,4,Monthly,Married,18430,1,0,5
+14042,972846204,0,33,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,21878,4,0,3
+14044,972846204,0,49,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,22439,9,0,8
+14047,972846204,1,31,Tier 1,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,25714,2,0,7
+14050,972846204,0,31,Tier 1,GT 1 Rider,10th,Male,3,Semi Annual,Married,25250,4,0,2
+14052,972846204,1,54,Tier 1,No Rider,10th,Female,4,Semi Annual,Married,26169,1,0,2
+14053,972846204,1,39,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20855,5,0,2
+14054,972846204,0,33,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,20087,5,0,2
+14055,972846204,0,49,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,18367,9,0,8
+14056,972846204,0,35,Tier 1,No Rider,12th,Male,3,Monthly,Single,18972,2,0,1
+14059,972846204,0,27,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18061,2,0,1
+14068,972846204,0,24,Tier 1,No Rider,10th,Male,1,Monthly,Married,18073,3,0,3
+14069,972846204,0,37,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,21562,4,1,1
+14072,972846204,0,35,Tier 2,No Rider,10th,Male,4,Quaterlty,Married,21063,2,0,8
+14077,972846204,1,29,Tier 1,No Rider,12th,Male,3,Monthly,Married,18408,2,1,1
+14078,972846204,0,23,Tier 3,No Rider,Professional Degree,Female,4,Monthly,Married,18814,2,1,2
+14080,972846204,0,33,Tier 1,No Rider,Professional Degree,Female,1,Monthly,Married,19312,4,0,1
+14083,972846204,0,46,Tier 1,No Rider,12th,Female,5,Quaterlty,Single,21769,2,1,2
+14086,972846204,0,37,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,20663,10,1,2
+14087,972846204,0,35,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,20724,2,0,8
+14090,972846204,0,28,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Married,20066,2,0,1
+14091,972846204,0,36,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,21208,2,0,2
+14092,972846204,0,29,Tier 1,No Rider,12th,Female,5,Quaterlty,Married,21208,1,0,1
+14097,972846204,0,41,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,26435,2,0,15
+14100,972846204,0,40,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,21042,1,0,4
+14105,972846204,0,41,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,23945,7,1,4
+14108,972846204,1,36,Tier 1,GT 1 Rider,12th,Male,5,Quaterlty,Married,21440,7,1,3
+14115,972846204,0,26,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,21206,2,0,1
+14118,972846204,0,51,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,29269,6,0,2
+14119,972846204,0,21,Tier 1,GT 1 Rider,12th,Female,3,Monthly,Single,18783,2,0,3
+14120,972846204,0,35,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,21433,2,0,8
+14122,972846204,0,50,Tier 1,No Rider,Graduate,Female,4,Annual,Married,29966,3,1,3
+14123,972846204,0,37,Tier 3,No Rider,12th,Female,4,Quaterlty,Married,20374,1,0,2
+14125,972846204,0,55,Tier 1,No Rider,12th,Female,3,Annual,Married,33426,4,0,5
+14126,972846204,0,44,Tier 1,No Rider,Graduate,Male,4,Annual,Married,33603,2,0,7
+14131,972846204,0,33,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21470,1,0,2
+14134,972846204,0,39,Tier 2,No Rider,12th,Female,4,Monthly,Single,18440,2,0,4
+14143,972846204,0,39,Tier 1,No Rider,12th,Female,3,Monthly,Married,19306,8,0,1
+14145,972846204,1,49,Tier 2,GT 1 Rider,12th,Female,3,Monthly,Married,18655,3,1,8
+14146,972846204,1,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17393,2,0,1
+14152,972846204,0,38,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,25525,2,0,2
+14156,972846204,0,36,Tier 2,No Rider,12th,Male,4,Monthly,Single,20930,1,1,2
+14157,972846204,0,44,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,23847,2,1,9
+14158,972846204,0,25,Tier 1,No Rider,12th,Male,1,Monthly,Married,20401,2,0,1
+14170,972846204,0,41,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,22516,3,1,1
+14174,972846204,0,31,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18862,2,0,1
+14178,972846204,1,33,Tier 1,GT 1 Rider,Graduate,Male,5,Quaterlty,Single,22735,7,0,1
+14181,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,22472,2,1,6
+14182,972846204,0,33,Tier 1,GT 1 Rider,Graduate,Male,5,Semi Annual,Married,25610,4,0,1
+14187,972846204,1,31,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,18180,7,0,2
+14189,972846204,0,28,Tier 1,No Rider,12th,Female,3,Monthly,Single,19445,2,0,2
+14190,972846204,1,30,Tier 1,GT 1 Rider,Below 10th,Female,5,Monthly,Single,18760,2,0,3
+14193,972846204,0,35,Tier 1,No Rider,12th,Male,1,Monthly,Married,18932,1,1,2
+14194,972846204,0,34,Tier 3,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,21147,9,0,2
+14197,972846204,0,39,Tier 2,No Rider,12th,Female,4,Monthly,Married,18468,5,0,1
+14198,972846204,1,32,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,24161,3,0,1
+14199,972846204,0,30,Tier 1,No Rider,10th,Female,4,Monthly,Married,18109,2,0,1
+14203,972846204,1,44,Tier 2,No Rider,10th,Male,4,Monthly,Married,18437,10,1,1
+14205,972846204,0,56,Tier 1,No Rider,12th,Male,4,Annual,Married,35038,9,0,1
+14206,972846204,0,34,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,19055,6,0,2
+14207,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18289,2,0,1
+14210,972846204,0,44,Tier 1,1 Rider,Graduate,Male,3,Monthly,Single,19539,1,0,2
+14214,972846204,1,23,Tier 1,No Rider,12th,Female,3,Monthly,Married,18398,2,1,1
+14222,972846204,1,36,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,21813,2,1,8
+14224,972846204,0,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18044,2,0,1
+14231,972846204,1,35,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,21346,5,0,1
+14239,972846204,1,47,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,24926,5,0,4
+14244,972846204,0,48,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,26333,9,1,15
+14245,972846204,0,41,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,20448,3,0,8
+14250,972846204,0,27,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,20684,2,0,2
+14251,972846204,0,59,Tier 2,No Rider,Graduate,Male,3,Annual,Married,31787,3,1,3
+14257,972846204,0,44,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,21675,2,0,8
+14260,972846204,0,33,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,20648,9,0,1
+14261,972846204,0,43,Tier 3,No Rider,10th,Male,3,Monthly,Married,18936,4,0,4
+14264,972846204,0,29,Tier 3,1 Rider,Graduate,Male,3,Monthly,Married,18706,2,0,3
+14268,972846204,0,47,Tier 1,GT 1 Rider,10th,Female,1,Annual,Married,29225,3,0,3
+14269,972846204,0,28,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Married,19540,2,0,6
+14270,972846204,0,30,Tier 1,1 Rider,12th,Male,4,Monthly,Married,18804,2,0,1
+14271,972846204,0,44,Tier 1,No Rider,12th,Female,4,Annual,Married,35392,8,0,7
+14275,972846204,0,28,Tier 2,No Rider,Graduate,Female,4,Monthly,Married,20774,1,0,8
+14281,972846204,0,37,Tier 1,GT 1 Rider,10th,Female,4,Quaterlty,Married,21673,2,1,2
+14285,972846204,0,38,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20284,6,1,1
+14286,972846204,0,36,Tier 1,No Rider,Professional Degree,Female,4,Quaterlty,Married,20788,1,1,1
+14291,972846204,0,28,Tier 1,GT 1 Rider,12th,Female,1,Quaterlty,Single,22500,1,0,1
+14292,972846204,0,49,Tier 2,No Rider,12th,Female,3,Annual,Married,33174,4,0,5
+14294,972846204,1,35,Tier 3,No Rider,10th,Male,5,Monthly,Married,18307,2,1,4
+14298,972846204,0,43,Tier 1,No Rider,12th,Male,3,Semi Annual,Married,29348,10,0,6
+14301,972846204,0,32,Tier 1,No Rider,12th,Female,1,Monthly,Married,19978,9,0,3
+14302,972846204,0,27,Tier 2,No Rider,Professional Degree,Male,1,Monthly,Married,18544,1,0,8
+14306,972846204,1,30,Tier 2,GT 1 Rider,10th,Male,1,Monthly,Single,17091,2,0,1
+14308,972846204,0,28,Tier 1,No Rider,10th,Male,3,Monthly,Married,18226,2,0,2
+14309,972846204,0,35,Tier 2,No Rider,Professional Degree,Male,4,Quaterlty,Married,21747,2,1,7
+14311,972846204,0,48,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,21467,9,0,2
+14312,972846204,0,57,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,21380,5,0,1
+14314,972846204,0,39,Tier 2,No Rider,12th,Female,4,Quaterlty,Married,18133,2,1,1
+14316,972846204,1,33,Tier 2,No Rider,Graduate,Female,1,Monthly,Single,18432,4,1,1
+14318,972846204,0,50,Tier 2,No Rider,Graduate,Male,3,Annual,Married,35161,4,0,5
+14320,972846204,1,28,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,18863,2,0,1
+14323,972846204,0,32,Tier 3,No Rider,12th,Male,3,Monthly,Married,19065,2,1,3
+14325,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Single,25888,2,0,3
+14328,972846204,0,30,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21373,1,0,1
+14331,972846204,1,29,Tier 1,No Rider,10th,Male,4,Monthly,Married,18367,6,0,1
+14333,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21204,2,1,1
+14334,972846204,0,28,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,20105,2,0,1
+14335,972846204,0,33,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,25679,9,0,1
+14336,972846204,1,32,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,21617,2,1,1
+14338,972846204,0,55,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,18897,4,0,3
+14340,972846204,0,44,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Married,23510,2,0,1
+14341,972846204,0,39,Tier 2,1 Rider,Professional Degree,Male,3,Monthly,Married,18991,1,1,2
+14342,972846204,0,56,Tier 1,1 Rider,Post Graduate,Male,1,Annual,Married,35636,5,1,2
+14344,972846204,0,40,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Single,29341,1,0,12
+14345,972846204,0,43,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Single,20332,2,0,4
+14347,972846204,0,55,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,20440,7,1,2
+14348,972846204,0,25,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,20617,2,0,2
+14354,972846204,0,26,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,19977,7,1,1
+14358,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Married,19067,1,0,2
+14360,972846204,0,43,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21410,7,1,2
+14361,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18782,4,0,2
+14362,972846204,0,48,Tier 3,No Rider,12th,Female,3,Semi Annual,Married,27957,1,0,6
+14363,972846204,0,36,Tier 1,No Rider,12th,Male,3,Monthly,Married,18660,8,1,3
+14367,972846204,0,33,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,18837,2,0,5
+14368,972846204,0,41,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18406,9,0,1
+14374,972846204,0,26,Tier 1,GT 1 Rider,Professional Degree,Female,3,Quaterlty,Married,20907,1,1,1
+14375,972846204,0,53,Tier 3,GT 1 Rider,Graduate,Male,3,Monthly,Married,19482,3,0,1
+14376,972846204,0,45,Tier 1,No Rider,12th,Male,3,Monthly,Single,18436,7,1,2
+14380,972846204,0,37,Tier 1,GT 1 Rider,12th,Female,4,Semi Annual,Married,23644,1,0,4
+14384,972846204,0,43,Tier 1,No Rider,Graduate,Male,3,Annual,Married,34880,6,0,5
+14393,972846204,1,51,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,22728,8,0,1
+14394,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,22652,5,0,1
+14395,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,20850,9,0,1
+14396,972846204,0,41,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,18809,3,0,3
+14398,972846204,0,41,Tier 1,No Rider,12th,Female,3,Monthly,Married,18001,3,0,1
+14401,972846204,0,30,Tier 1,No Rider,12th,Female,4,Monthly,Single,19785,2,0,1
+14404,972846204,0,32,Tier 3,No Rider,12th,Male,3,Quaterlty,Single,25936,1,0,2
+14408,972846204,0,28,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,22142,2,1,1
+14410,972846204,0,35,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,20404,3,0,2
+14411,972846204,1,42,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,21993,9,1,1
+14413,972846204,1,38,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Single,18090,7,1,1
+14414,972846204,0,34,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,18909,2,1,4
+14415,972846204,0,28,Tier 1,No Rider,12th,Male,3,Monthly,Married,19468,10,0,3
+14417,972846204,0,60,Tier 1,No Rider,12th,Female,1,Monthly,Married,18670,5,1,1
+14420,972846204,0,37,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21237,7,0,8
+14421,972846204,0,36,Tier 1,No Rider,12th,Male,1,Monthly,Married,18426,1,0,1
+14425,972846204,1,29,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,18028,6,1,1
+14429,972846204,0,54,Tier 1,GT 1 Rider,Graduate,Female,4,Annual,Married,31427,3,0,4
+14431,972846204,0,25,Tier 3,No Rider,Professional Degree,Female,1,Quaterlty,Married,20011,1,0,2
+14434,972846204,0,22,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17232,2,0,1
+14438,972846204,0,43,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,22825,1,0,5
+14439,972846204,0,45,Tier 1,No Rider,12th,Female,4,Semi Annual,Married,26248,4,0,6
+14441,972846204,0,34,Tier 1,No Rider,12th,Male,3,Monthly,Single,18496,5,0,1
+14444,972846204,1,40,Tier 1,GT 1 Rider,10th,Male,3,Quaterlty,Married,18086,4,0,1
+14445,972846204,1,25,Tier 1,No Rider,12th,Male,3,Monthly,Married,18293,3,1,3
+14448,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Female,3,Monthly,Married,18014,2,0,3
+14449,972846204,0,37,Tier 1,No Rider,Graduate,Female,4,Monthly,Married,19419,10,1,1
+14450,972846204,0,34,Tier 2,GT 1 Rider,Graduate,Female,1,Quaterlty,Married,21376,3,0,2
+14451,972846204,0,36,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,17951,2,0,1
+14454,972846204,0,28,Tier 2,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,24726,2,0,2
+14459,972846204,0,47,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,21772,5,1,1
+14460,972846204,0,36,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,18269,2,0,1
+14463,972846204,0,45,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,21454,6,1,2
+14464,972846204,0,36,Tier 3,No Rider,12th,Male,4,Semi Annual,Married,25884,3,1,3
+14466,972846204,0,34,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Single,29458,2,1,9
+14474,972846204,0,60,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,23637,8,0,8
+14479,972846204,0,36,Tier 2,No Rider,12th,Male,3,Monthly,Married,18194,5,0,2
+14485,972846204,0,37,Tier 1,No Rider,Graduate,Female,1,Monthly,Married,19038,4,0,1
+14486,972846204,0,32,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,20424,2,0,2
+14487,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Single,20312,1,0,3
+14490,972846204,0,47,Tier 1,1 Rider,12th,Male,3,Quaterlty,Married,21021,9,1,1
+14491,972846204,0,31,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,21126,2,1,4
+14494,972846204,0,39,Tier 3,No Rider,12th,Female,5,Quaterlty,Married,21329,8,1,2
+14502,972846204,0,52,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Single,21441,1,1,2
+14509,972846204,0,59,Tier 1,GT 1 Rider,12th,Male,3,Annual,Single,29872,1,0,2
+14511,972846204,1,38,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Married,18073,5,1,1
+14515,972846204,0,38,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Married,21163,6,0,1
+14517,972846204,0,51,Tier 2,No Rider,Graduate,Female,3,Annual,Married,34172,4,1,1
+14528,972846204,0,37,Tier 2,GT 1 Rider,10th,Female,3,Semi Annual,Married,25738,1,0,3
+14535,972846204,1,32,Tier 1,GT 1 Rider,Graduate,Male,5,Quaterlty,Married,22172,5,1,8
+14537,972846204,1,59,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,26312,2,0,16
+14538,972846204,1,20,Tier 1,GT 1 Rider,Below 10th,Male,3,Monthly,Single,17675,2,1,1
+14540,972846204,0,50,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,22567,2,0,6
+14541,972846204,0,44,Tier 2,No Rider,12th,Female,1,Monthly,Single,20739,5,0,2
+14542,972846204,0,51,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,25208,5,0,3
+14543,972846204,1,32,Tier 1,GT 1 Rider,Graduate,Female,5,Quaterlty,Married,20559,4,1,3
+14547,972846204,1,52,Tier 2,No Rider,Graduate,Male,5,Semi Annual,Single,26650,3,0,1
+14552,972846204,0,46,Tier 1,No Rider,12th,Male,3,Monthly,Single,19452,6,0,1
+14555,972846204,0,33,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,20668,1,0,1
+14556,972846204,0,31,Tier 1,No Rider,10th,Female,3,Monthly,Married,19204,6,0,3
+14560,972846204,0,20,Tier 1,No Rider,12th,Female,3,Monthly,Single,17483,2,0,1
+14561,972846204,0,41,Tier 2,No Rider,12th,Female,3,Quaterlty,Married,21605,2,0,3
+14562,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,23295,2,0,1
+14563,972846204,0,54,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,18306,3,1,5
+14564,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,18348,9,0,1
+14565,972846204,0,33,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,24998,2,0,4
+14566,972846204,0,30,Tier 3,No Rider,10th,Male,3,Quaterlty,Married,20319,2,0,1
+14569,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,26855,8,0,3
+14570,972846204,0,35,Tier 2,GT 1 Rider,Below 10th,Female,3,Monthly,Married,18231,7,0,2
+14573,972846204,0,29,Tier 1,No Rider,12th,Male,3,Monthly,Married,18713,2,0,1
+14574,972846204,0,58,Tier 1,No Rider,Graduate,Male,1,Semi Annual,Married,25439,4,1,2
+14576,972846204,0,51,Tier 1,No Rider,Graduate,Female,3,Annual,Single,35926,4,0,5
+14577,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18451,5,0,2
+14578,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Married,25419,3,0,8
+14582,972846204,1,20,Tier 2,GT 1 Rider,10th,Female,5,Monthly,Single,18325,1,0,1
+14583,972846204,0,37,Tier 2,No Rider,12th,Male,3,Monthly,Single,18088,5,0,8
+14585,972846204,0,46,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21006,5,1,1
+14592,972846204,0,35,Tier 1,No Rider,12th,Female,3,Monthly,Single,18311,3,0,2
+14595,972846204,0,54,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,20450,2,0,2
+14603,972846204,1,36,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,21916,4,1,1
+14607,972846204,0,36,Tier 2,No Rider,12th,Female,3,Quaterlty,Single,20425,6,0,2
+14614,972846204,0,41,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,18741,9,1,4
+14616,972846204,1,30,Tier 1,GT 1 Rider,Below 10th,Female,3,Semi Annual,Married,23639,2,0,2
+14618,972846204,0,37,Tier 2,No Rider,12th,Female,3,Monthly,Single,18153,2,0,2
+14621,972846204,1,33,Tier 1,GT 1 Rider,12th,Male,5,Semi Annual,Married,26400,2,0,10
+14626,972846204,0,42,Tier 1,GT 1 Rider,Graduate,Female,3,Semi Annual,Single,29591,4,1,1
+14632,972846204,0,34,Tier 1,No Rider,12th,Female,4,Monthly,Married,18622,7,0,2
+14636,972846204,0,60,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,18177,4,0,1
+14638,972846204,0,30,Tier 2,GT 1 Rider,12th,Female,3,Semi Annual,Married,23918,2,0,5
+14639,972846204,0,36,Tier 2,GT 1 Rider,Below 10th,Female,3,Semi Annual,Single,24789,2,0,1
+14647,972846204,1,34,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18707,8,0,2
+14650,972846204,1,33,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,19730,1,1,2
+14651,972846204,0,40,Tier 1,No Rider,12th,Female,3,Monthly,Married,18232,8,0,2
+14652,972846204,0,33,Tier 3,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20465,1,0,3
+14653,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,19072,3,0,1
+14658,972846204,0,35,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,21957,7,0,6
+14659,972846204,0,38,Tier 1,No Rider,12th,Female,4,Monthly,Married,19920,3,0,1
+14667,972846204,0,43,Tier 1,No Rider,12th,Female,4,Monthly,Married,18593,1,1,8
+14669,972846204,0,52,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18723,2,0,1
+14670,972846204,1,32,Tier 2,No Rider,12th,Male,4,Monthly,Single,19479,1,0,2
+14671,972846204,0,33,Tier 2,No Rider,Graduate,Male,1,Monthly,Married,18794,2,0,1
+14672,972846204,0,39,Tier 3,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,21249,4,0,8
+14674,972846204,0,47,Tier 1,GT 1 Rider,10th,Female,5,Annual,Married,32872,4,1,8
+14675,972846204,1,29,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19485,3,0,1
+14677,972846204,0,32,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,21582,1,0,8
+14681,972846204,0,56,Tier 1,No Rider,12th,Male,3,Annual,Single,35045,1,1,5
+14689,972846204,0,27,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,22397,2,0,2
+14691,972846204,0,54,Tier 1,No Rider,12th,Male,3,Annual,Married,33584,4,1,2
+14693,972846204,0,30,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20554,2,0,1
+14695,972846204,0,27,Tier 2,No Rider,12th,Male,3,Quaterlty,Married,20741,2,1,4
+14696,972846204,0,38,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18115,2,0,6
+14697,972846204,1,45,Tier 2,No Rider,Graduate,Male,3,Monthly,Married,19161,4,1,1
+14699,972846204,1,27,Tier 1,No Rider,12th,Male,3,Monthly,Married,18373,3,1,1
+14716,972846204,0,37,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,21674,8,0,1
+14719,972846204,0,59,Tier 3,No Rider,Graduate,Male,5,Quaterlty,Married,21660,3,1,2
+14720,972846204,0,32,Tier 1,No Rider,10th,Male,3,Monthly,Married,20821,1,1,1
+14721,972846204,0,32,Tier 1,1 Rider,Post Graduate,Male,4,Quaterlty,Married,22410,4,0,2
+14722,972846204,0,46,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,21210,2,0,10
+14724,972846204,0,34,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Married,27878,7,0,9
+14726,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Monthly,Single,18455,1,0,2
+14736,972846204,0,32,Tier 2,No Rider,Graduate,Female,4,Semi Annual,Married,24943,2,0,9
+14746,972846204,0,41,Tier 1,GT 1 Rider,12th,Male,5,Quaterlty,Married,23457,3,1,1
+14747,972846204,1,30,Tier 1,No Rider,Professional Degree,Male,5,Monthly,Married,18119,2,1,1
+14753,972846204,0,32,Tier 1,No Rider,12th,Female,3,Semi Annual,Single,23143,2,1,5
+14762,972846204,0,33,Tier 1,No Rider,12th,Female,3,Monthly,Married,18370,2,0,1
+14764,972846204,0,38,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,21974,5,1,7
+14766,972846204,0,27,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,21296,2,0,8
+14767,972846204,0,43,Tier 1,No Rider,Professional Degree,Male,4,Quaterlty,Single,22781,4,0,1
+14769,972846204,0,37,Tier 3,GT 1 Rider,12th,Female,3,Quaterlty,Single,22653,5,0,1
+14770,972846204,0,37,Tier 2,GT 1 Rider,12th,Male,4,Semi Annual,Married,25699,5,0,2
+14771,972846204,0,58,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,22755,3,0,2
+14773,972846204,0,22,Tier 3,GT 1 Rider,12th,Male,3,Monthly,Single,18610,2,0,3
+14774,972846204,1,34,Tier 1,GT 1 Rider,Below 10th,Female,3,Monthly,Single,18851,2,1,1
+14778,972846204,0,51,Tier 1,No Rider,10th,Male,4,Semi Annual,Single,26496,7,0,2
+14783,972846204,0,36,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,22540,10,0,1
+14786,972846204,0,50,Tier 1,No Rider,Professional Degree,Male,4,Semi Annual,Single,26965,9,0,1
+14789,972846204,1,35,Tier 3,GT 1 Rider,Below 10th,Male,1,Quaterlty,Single,21304,9,1,1
+14790,972846204,0,56,Tier 1,No Rider,Graduate,Female,3,Annual,Single,32659,3,1,2
+14793,972846204,1,27,Tier 2,No Rider,10th,Male,3,Monthly,Single,19102,1,0,1
+14794,972846204,0,23,Tier 1,No Rider,12th,Female,3,Monthly,Married,18244,2,0,2
+14795,972846204,0,37,Tier 1,GT 1 Rider,12th,Male,4,Semi Annual,Married,23596,2,0,10
+14799,972846204,0,43,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18576,4,0,2
+14803,972846204,0,55,Tier 1,No Rider,12th,Male,3,Annual,Married,35406,5,0,2
+14806,972846204,0,44,Tier 2,No Rider,12th,Male,3,Monthly,Married,18258,8,0,2
+14811,972846204,0,40,Tier 2,No Rider,Graduate,Male,3,Annual,Married,35197,2,1,2
+14812,972846204,0,57,Tier 2,GT 1 Rider,Graduate,Female,1,Annual,Married,29212,10,0,8
+14813,972846204,0,31,Tier 1,GT 1 Rider,10th,Female,3,Quaterlty,Single,22577,1,0,5
+14816,972846204,1,26,Tier 1,No Rider,12th,Male,3,Monthly,Married,20031,6,0,1
+14817,972846204,0,53,Tier 1,No Rider,12th,Male,4,Semi Annual,Married,23969,3,1,1
+14818,972846204,0,46,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18654,4,0,1
+14823,972846204,0,47,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,20810,3,0,1
+14825,972846204,1,25,Tier 1,GT 1 Rider,10th,Female,3,Monthly,Single,19202,2,1,2
+14828,972846204,0,41,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Married,34041,1,0,2
+14834,972846204,0,31,Tier 3,GT 1 Rider,Professional Degree,Female,3,Semi Annual,Married,24412,1,0,8
+14836,972846204,0,51,Tier 1,No Rider,Graduate,Male,4,Annual,Married,33046,1,0,16
+14837,972846204,0,31,Tier 3,No Rider,12th,Female,3,Monthly,Single,18564,1,0,7
+14839,972846204,0,48,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,21070,6,0,1
+14842,972846204,0,55,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Single,19780,8,0,1
+14843,972846204,0,35,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,18768,4,0,6
+14844,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Female,4,Semi Annual,Married,25071,3,1,2
+14848,972846204,0,31,Tier 1,GT 1 Rider,Below 10th,Male,3,Monthly,Single,18983,1,0,2
+14850,972846204,1,32,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,25824,4,0,1
+14853,972846204,0,37,Tier 3,GT 1 Rider,12th,Male,3,Semi Annual,Single,25980,2,0,10
+14855,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20051,3,0,7
+14857,972846204,0,42,Tier 3,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,22230,8,0,2
+14858,972846204,0,36,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20717,10,0,7
+14860,972846204,0,40,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,19755,2,0,1
+14869,972846204,0,41,Tier 3,GT 1 Rider,Professional Degree,Male,5,Semi Annual,Married,26932,4,0,1
+14871,972846204,0,27,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,20306,6,0,1
+14872,972846204,0,36,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,20859,2,0,1
+14878,972846204,0,38,Tier 3,GT 1 Rider,12th,Male,3,Semi Annual,Married,24834,2,0,8
+14879,972846204,0,53,Tier 1,No Rider,10th,Male,3,Quaterlty,Married,21577,4,1,7
+14882,972846204,0,39,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,25824,4,0,1
+14883,972846204,0,38,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,22447,7,0,5
+14884,972846204,0,50,Tier 1,No Rider,Graduate,Male,4,Annual,Married,35502,2,1,1
+14887,972846204,0,25,Tier 1,No Rider,Professional Degree,Male,4,Monthly,Married,18127,2,0,1
+14890,972846204,1,25,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,18886,2,1,2
+14891,972846204,1,31,Tier 2,GT 1 Rider,Graduate,Male,4,Monthly,Married,18033,2,0,1
+14895,972846204,0,32,Tier 1,GT 1 Rider,12th,Male,1,Quaterlty,Married,21460,5,0,6
+14896,972846204,0,28,Tier 1,No Rider,12th,Female,4,Monthly,Married,18187,1,0,1
+14906,972846204,1,28,Tier 1,GT 1 Rider,Below 10th,Male,3,Monthly,Married,19041,1,0,1
+14907,972846204,0,22,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Single,19447,2,0,2
+14909,972846204,0,23,Tier 1,No Rider,12th,Male,3,Monthly,Married,18773,1,0,3
+14911,972846204,0,33,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,22322,2,1,1
+14915,972846204,1,46,Tier 2,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,20286,3,0,1
+14916,972846204,0,27,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18659,2,1,1
+14917,972846204,0,38,Tier 1,No Rider,Professional Degree,Male,3,Semi Annual,Married,25434,2,0,8
+14918,972846204,0,30,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Married,21561,2,0,2
+14919,972846204,0,36,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Single,22646,2,0,12
+14920,972846204,0,34,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,23725,4,0,5
+14929,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Single,20028,1,0,1
+14930,972846204,0,30,Tier 2,No Rider,Graduate,Male,5,Monthly,Married,18720,2,0,3
+14931,972846204,0,49,Tier 1,GT 1 Rider,Below 10th,Male,1,Quaterlty,Married,24120,4,0,3
+14933,972846204,0,38,Tier 1,No Rider,Graduate,Male,1,Monthly,Single,20680,4,0,1
+14934,972846204,0,51,Tier 1,No Rider,12th,Male,1,Monthly,Married,19221,2,1,4
+14937,972846204,0,40,Tier 1,No Rider,10th,Female,4,Quaterlty,Single,20553,2,0,12
+14941,972846204,0,28,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Married,23412,2,0,1
+14945,972846204,0,54,Tier 1,No Rider,Graduate,Male,1,Annual,Married,30814,4,0,2
+14950,972846204,0,51,Tier 1,GT 1 Rider,Below 10th,Male,3,Monthly,Married,19875,8,0,3
+14953,972846204,0,39,Tier 1,No Rider,Graduate,Female,3,Semi Annual,Single,23861,5,1,1
+14955,972846204,0,48,Tier 2,GT 1 Rider,12th,Female,3,Annual,Married,29770,10,1,12
+14959,972846204,0,44,Tier 2,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,22804,4,0,3
+14960,972846204,0,35,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,22142,4,0,5
+14962,972846204,0,40,Tier 1,1 Rider,Post Graduate,Female,1,Quaterlty,Married,22389,10,0,4
+14963,972846204,0,57,Tier 1,No Rider,12th,Male,3,Annual,Married,27103,8,0,2
+14964,972846204,0,41,Tier 1,No Rider,12th,Female,4,Monthly,Single,18342,1,1,3
+14965,972846204,0,28,Tier 1,No Rider,12th,Female,4,Quaterlty,Single,22811,9,0,1
+14968,972846204,0,36,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,21093,3,0,1
+14973,972846204,1,34,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Single,18686,2,1,8
+14975,972846204,0,46,Tier 1,GT 1 Rider,10th,Male,5,Quaterlty,Single,22632,1,0,4
+14977,972846204,1,48,Tier 2,GT 1 Rider,Graduate,Female,1,Quaterlty,Single,22397,5,1,2
+14979,972846204,1,56,Tier 1,No Rider,12th,Male,3,Annual,Married,35859,6,1,2
+14982,972846204,0,27,Tier 2,No Rider,Graduate,Female,5,Monthly,Married,20364,4,0,3
+14983,972846204,0,30,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,20335,5,0,2
+14989,972846204,0,39,Tier 2,No Rider,Graduate,Female,1,Quaterlty,Single,21980,7,1,5
+14992,972846204,0,31,Tier 1,No Rider,Graduate,Male,5,Monthly,Married,19833,4,0,1
+14995,972846204,0,43,Tier 2,No Rider,Graduate,Male,3,Annual,Married,34430,2,0,15
+14996,972846204,1,24,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,17601,2,1,1
+15001,972846204,0,34,Tier 1,No Rider,12th,Male,3,Semi Annual,Married,27691,1,0,4
+15005,972846204,0,30,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,18700,2,0,1
+15006,972846204,1,59,Tier 1,No Rider,Graduate,Male,3,Annual,Single,35246,8,1,14
+15007,972846204,0,36,Tier 1,No Rider,Graduate,Female,1,Monthly,Single,18506,4,0,3
+15008,972846204,0,43,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,22062,10,1,1
+15011,972846204,0,33,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,22162,2,0,7
+15015,972846204,0,43,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,20434,2,0,8
+15016,972846204,0,39,Tier 2,No Rider,Graduate,Male,4,Quaterlty,Married,22288,3,0,2
+15017,972846204,0,35,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,18553,2,0,2
+15021,972846204,0,28,Tier 1,No Rider,10th,Male,4,Semi Annual,Married,28808,2,1,1
+15024,972846204,0,35,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Married,19737,1,0,1
+15026,972846204,0,28,Tier 3,No Rider,12th,Male,3,Monthly,Married,17706,2,0,1
+15031,972846204,0,36,Tier 1,No Rider,12th,Female,4,Monthly,Single,18559,2,0,2
+15039,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,22334,5,0,1
+15041,972846204,0,23,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Married,20775,7,0,3
+15042,972846204,0,45,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,18818,3,1,1
+15044,972846204,0,37,Tier 1,1 Rider,Graduate,Male,4,Monthly,Married,18342,1,0,1
+15045,972846204,0,26,Tier 1,GT 1 Rider,Professional Degree,Male,3,Quaterlty,Married,20194,2,1,1
+15046,972846204,0,36,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,26685,2,1,6
+15049,972846204,0,26,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,20256,2,0,1
+15053,972846204,0,39,Tier 1,GT 1 Rider,Below 10th,Male,4,Monthly,Married,18899,1,0,2
+15055,972846204,0,32,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18356,4,1,1
+15057,972846204,0,54,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,27836,6,0,3
+15061,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,21562,5,0,3
+15066,972846204,0,34,Tier 1,1 Rider,Post Graduate,Male,3,Monthly,Married,18277,4,1,1
+15067,972846204,1,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18795,2,1,1
+15077,972846204,1,23,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,20171,1,1,1
+15081,972846204,0,28,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18318,2,0,1
+15082,972846204,0,35,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18008,2,0,2
+15085,972846204,0,59,Tier 1,No Rider,10th,Female,4,Semi Annual,Married,26552,3,1,1
+15089,972846204,0,49,Tier 1,No Rider,12th,Male,3,Monthly,Married,18259,5,0,1
+15090,972846204,0,32,Tier 3,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,22932,2,0,1
+15091,972846204,0,37,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Single,20678,3,0,1
+15095,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Married,25705,3,0,1
+15100,972846204,1,21,Tier 1,No Rider,10th,Male,3,Monthly,Single,18973,2,0,1
+15101,972846204,0,32,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,21855,1,1,9
+15106,972846204,1,38,Tier 1,GT 1 Rider,Graduate,Male,4,Semi Annual,Married,26609,6,0,12
+15110,972846204,0,53,Tier 1,No Rider,Graduate,Male,3,Annual,Married,33099,3,0,8
+15116,972846204,0,40,Tier 1,GT 1 Rider,Graduate,Male,1,Semi Annual,Single,23880,1,0,1
+15117,972846204,1,41,Tier 3,GT 1 Rider,Graduate,Female,1,Annual,Single,29194,5,1,1
+15125,972846204,0,51,Tier 1,No Rider,12th,Male,3,Annual,Married,33399,10,0,2
+15127,972846204,0,42,Tier 2,No Rider,12th,Male,3,Annual,Married,35419,3,0,1
+15129,972846204,0,46,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,19633,2,1,1
+15133,972846204,0,39,Tier 2,No Rider,12th,Male,3,Monthly,Married,18684,1,0,1
+15137,972846204,0,32,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,20148,2,0,1
+15138,972846204,0,19,Tier 3,No Rider,Graduate,Male,3,Monthly,Single,17051,2,0,1
+15141,972846204,0,31,Tier 1,No Rider,Graduate,Female,1,Semi Annual,Married,27416,1,1,2
+15142,972846204,1,21,Tier 1,No Rider,12th,Female,4,Monthly,Single,18600,2,1,1
+15143,972846204,1,31,Tier 2,No Rider,12th,Female,3,Monthly,Single,18422,1,0,2
+15148,972846204,0,42,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,21003,7,0,3
+15151,972846204,0,36,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,19917,2,0,2
+15153,972846204,0,51,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18380,5,0,1
+15155,972846204,1,38,Tier 1,No Rider,12th,Female,5,Quaterlty,Married,20777,6,0,1
+15156,972846204,0,56,Tier 2,No Rider,12th,Male,3,Quaterlty,Married,22385,4,1,7
+15159,972846204,1,27,Tier 3,GT 1 Rider,12th,Male,5,Quaterlty,Single,20969,9,0,3
+15161,972846204,0,45,Tier 1,GT 1 Rider,12th,Female,1,Annual,Married,29320,4,1,12
+15162,972846204,0,51,Tier 3,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,22347,1,0,1
+15164,972846204,0,40,Tier 2,No Rider,12th,Female,3,Semi Annual,Single,26880,2,1,3
+15167,972846204,0,33,Tier 3,No Rider,12th,Female,3,Monthly,Single,20025,10,0,8
+15170,972846204,0,46,Tier 1,1 Rider,12th,Male,3,Monthly,Single,18177,2,0,1
+15172,972846204,1,37,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,20834,8,0,1
+15174,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Female,3,Monthly,Married,18220,2,1,1
+15177,972846204,0,51,Tier 1,No Rider,12th,Male,3,Annual,Married,35237,3,1,8
+15179,972846204,0,41,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,24396,2,0,8
+15180,972846204,0,27,Tier 2,No Rider,12th,Female,4,Monthly,Married,18007,2,0,2
+15183,972846204,0,57,Tier 2,No Rider,12th,Female,3,Monthly,Married,18942,3,0,1
+15184,972846204,0,37,Tier 1,No Rider,12th,Female,4,Semi Annual,Single,24858,1,0,8
+15187,972846204,1,21,Tier 2,GT 1 Rider,Below 10th,Female,3,Monthly,Single,18323,2,1,1
+15193,972846204,0,31,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,25957,1,0,1
+15196,972846204,0,41,Tier 1,No Rider,10th,Male,3,Semi Annual,Married,26322,5,0,12
+15201,972846204,0,34,Tier 1,No Rider,Graduate,Male,4,Semi Annual,Married,23119,5,0,2
+15203,972846204,1,34,Tier 2,No Rider,12th,Female,4,Quaterlty,Single,20508,2,0,4
+15205,972846204,0,35,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Single,23756,1,0,1
+15206,972846204,0,38,Tier 1,GT 1 Rider,Graduate,Female,4,Quaterlty,Married,22694,3,1,1
+15221,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,33465,4,0,5
+15223,972846204,0,44,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Married,26820,9,0,1
+15227,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Single,22782,10,0,1
+15229,972846204,0,32,Tier 2,GT 1 Rider,Graduate,Male,1,Monthly,Married,18791,1,0,3
+15230,972846204,0,29,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,19201,1,0,1
+15234,972846204,0,30,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,19291,1,0,2
+15236,972846204,0,30,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,21056,2,1,2
+15237,972846204,0,39,Tier 1,1 Rider,Post Graduate,Male,1,Monthly,Married,18844,2,0,6
+15238,972846204,0,29,Tier 2,No Rider,Graduate,Male,4,Monthly,Married,18703,2,1,1
+15239,972846204,1,19,Tier 3,No Rider,12th,Male,3,Monthly,Single,17904,2,0,1
+15244,972846204,0,28,Tier 1,No Rider,Graduate,Male,4,Monthly,Married,18539,2,0,3
+15245,972846204,0,35,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21714,2,0,2
+15251,972846204,0,36,Tier 1,No Rider,12th,Male,4,Monthly,Married,18258,7,0,2
+15252,972846204,0,25,Tier 1,No Rider,12th,Male,3,Monthly,Single,19597,9,0,2
+15253,972846204,1,29,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,18515,2,1,1
+15256,972846204,0,41,Tier 2,No Rider,12th,Female,4,Quaterlty,Married,20422,4,1,1
+15267,972846204,0,21,Tier 1,No Rider,Graduate,Male,4,Monthly,Single,19033,2,0,2
+15268,972846204,1,45,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18936,2,1,1
+15269,972846204,0,54,Tier 1,No Rider,12th,Female,3,Annual,Married,34606,4,0,5
+15276,972846204,0,31,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,20115,9,0,1
+15281,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,24966,4,1,2
+15285,972846204,0,31,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,19491,2,0,9
+15286,972846204,0,45,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Single,20541,2,0,14
+15287,972846204,0,21,Tier 1,GT 1 Rider,Below 10th,Male,1,Monthly,Single,18678,2,0,3
+15290,972846204,0,61,Tier 1,GT 1 Rider,Below 10th,Male,1,Quaterlty,Married,21220,1,1,2
+15292,972846204,0,33,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Single,20998,5,1,1
+15296,972846204,0,26,Tier 1,GT 1 Rider,Graduate,Male,3,Quaterlty,Single,20950,1,0,2
+15299,972846204,0,36,Tier 3,GT 1 Rider,Below 10th,Female,4,Semi Annual,Married,26377,5,1,5
+15300,972846204,0,28,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18235,2,1,7
+15301,972846204,0,55,Tier 2,No Rider,Graduate,Female,3,Semi Annual,Married,26502,8,0,2
+15302,972846204,0,45,Tier 1,No Rider,Graduate,Female,1,Monthly,Married,18011,2,0,8
+15303,972846204,1,20,Tier 3,No Rider,12th,Female,4,Monthly,Single,17859,2,1,1
+15306,972846204,0,32,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,22833,2,1,1
+15309,972846204,0,44,Tier 1,No Rider,Graduate,Male,5,Annual,Married,35740,4,0,1
+15311,972846204,0,37,Tier 2,No Rider,10th,Male,3,Monthly,Married,19692,2,0,1
+15318,972846204,0,45,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,34213,8,0,4
+15320,972846204,0,20,Tier 1,No Rider,Graduate,Female,1,Monthly,Single,18994,2,1,1
+15326,972846204,1,22,Tier 2,No Rider,Graduate,Female,4,Monthly,Single,18625,2,0,3
+15327,972846204,0,47,Tier 1,GT 1 Rider,Below 10th,Female,4,Annual,Married,34789,3,0,1
+15328,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,20538,1,1,1
+15332,972846204,0,29,Tier 2,No Rider,12th,Male,3,Monthly,Single,18154,1,1,1
+15333,972846204,0,45,Tier 1,No Rider,Graduate,Male,1,Annual,Married,35190,2,0,15
+15336,972846204,0,43,Tier 1,No Rider,12th,Female,1,Quaterlty,Married,18372,7,1,1
+15339,972846204,1,45,Tier 1,No Rider,12th,Female,3,Semi Annual,Married,23978,2,0,1
+15340,972846204,0,29,Tier 2,No Rider,Graduate,Male,4,Monthly,Married,19867,2,1,3
+15346,972846204,0,33,Tier 1,GT 1 Rider,12th,Male,1,Quaterlty,Married,22209,2,0,1
+15353,972846204,0,37,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,23094,4,0,2
+15354,972846204,0,47,Tier 1,1 Rider,Graduate,Female,3,Monthly,Single,19423,7,0,6
+15357,972846204,1,41,Tier 1,GT 1 Rider,Below 10th,Male,4,Semi Annual,Single,25094,3,1,2
+15358,972846204,1,53,Tier 1,GT 1 Rider,Graduate,Male,3,Semi Annual,Single,24446,10,1,8
+15361,972846204,0,32,Tier 3,GT 1 Rider,Graduate,Female,3,Semi Annual,Married,25852,2,1,10
+15363,972846204,1,32,Tier 2,GT 1 Rider,Graduate,Female,3,Monthly,Single,18302,2,1,3
+15368,972846204,0,41,Tier 3,No Rider,Graduate,Male,3,Monthly,Married,19544,10,0,1
+15373,972846204,0,52,Tier 1,1 Rider,Graduate,Male,3,Annual,Married,30026,2,1,1
+15374,972846204,0,39,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,22893,4,0,2
+15375,972846204,0,35,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Single,22125,2,0,10
+15376,972846204,0,26,Tier 1,No Rider,12th,Male,3,Monthly,Married,19669,4,0,2
+15384,972846204,0,36,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,21363,1,0,1
+15388,972846204,0,35,Tier 3,No Rider,10th,Female,4,Monthly,Married,18029,2,0,1
+15391,972846204,1,32,Tier 2,GT 1 Rider,Graduate,Female,4,Monthly,Single,18785,8,0,1
+15392,972846204,1,36,Tier 2,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20614,1,1,4
+15398,972846204,0,52,Tier 2,GT 1 Rider,Below 10th,Male,3,Semi Annual,Married,26596,3,0,4
+15401,972846204,0,34,Tier 2,GT 1 Rider,Graduate,Male,3,Quaterlty,Married,25998,7,0,2
+15402,972846204,0,33,Tier 1,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,20078,1,1,2
+15405,972846204,0,53,Tier 2,No Rider,12th,Female,1,Annual,Married,29247,3,1,1
+15408,972846204,1,28,Tier 1,No Rider,Graduate,Female,3,Monthly,Single,18394,2,1,8
+15411,972846204,0,53,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,18950,10,0,1
+15415,972846204,0,27,Tier 1,No Rider,Professional Degree,Male,1,Monthly,Single,19578,1,0,1
+15416,972846204,0,30,Tier 1,1 Rider,Professional Degree,Male,4,Semi Annual,Single,23988,2,0,1
+15417,972846204,1,50,Tier 2,No Rider,Graduate,Male,4,Quaterlty,Single,20284,4,0,2
+15418,972846204,1,30,Tier 2,No Rider,Professional Degree,Female,3,Semi Annual,Single,23553,1,1,8
+15427,972846204,1,32,Tier 1,No Rider,Graduate,Female,4,Monthly,Single,17261,2,0,1
+15430,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,21647,5,0,1
+15431,972846204,0,48,Tier 1,No Rider,10th,Male,3,Monthly,Married,19420,8,0,2
+15435,972846204,0,48,Tier 1,No Rider,12th,Female,3,Annual,Married,33169,4,0,6
+15438,972846204,0,35,Tier 1,No Rider,Graduate,Female,4,Monthly,Married,19294,6,0,1
+15444,972846204,1,32,Tier 2,No Rider,Graduate,Female,1,Semi Annual,Single,23446,2,0,5
+15453,972846204,0,45,Tier 3,No Rider,Graduate,Male,4,Monthly,Single,19162,4,0,1
+15454,972846204,0,54,Tier 1,No Rider,12th,Male,1,Annual,Single,32598,5,0,9
+15456,972846204,0,41,Tier 1,No Rider,12th,Male,3,Monthly,Married,18345,3,0,2
+15457,972846204,0,45,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19420,2,0,2
+15458,972846204,0,34,Tier 2,GT 1 Rider,12th,Male,3,Quaterlty,Married,20373,1,0,1
+15461,972846204,0,43,Tier 2,No Rider,12th,Female,3,Monthly,Single,19673,2,0,6
+15466,972846204,0,35,Tier 2,No Rider,12th,Male,3,Annual,Married,33007,8,0,7
+15468,972846204,1,30,Tier 2,GT 1 Rider,10th,Female,3,Quaterlty,Single,21765,6,0,1
+15469,972846204,1,35,Tier 1,GT 1 Rider,12th,Female,4,Quaterlty,Single,20599,1,1,11
+15472,972846204,0,25,Tier 3,GT 1 Rider,Graduate,Female,3,Monthly,Married,18033,2,0,1
+15477,972846204,0,34,Tier 1,No Rider,12th,Female,4,Monthly,Married,19838,9,0,1
+15478,972846204,0,48,Tier 1,GT 1 Rider,12th,Female,3,Quaterlty,Married,20591,4,1,2
+15482,972846204,0,50,Tier 1,No Rider,12th,Female,4,Quaterlty,Married,20789,5,0,2
+15483,972846204,0,30,Tier 2,No Rider,Graduate,Female,3,Monthly,Married,19180,1,0,1
+15484,972846204,0,29,Tier 1,No Rider,Graduate,Male,5,Quaterlty,Married,22549,2,0,2
+15486,972846204,0,33,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,27244,3,0,1
+15491,972846204,0,47,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Married,32606,9,0,6
+15495,972846204,0,35,Tier 1,GT 1 Rider,10th,Male,4,Semi Annual,Married,23083,2,1,9
+15497,972846204,0,51,Tier 2,No Rider,12th,Male,5,Annual,Single,30411,2,1,14
+15498,972846204,0,35,Tier 1,GT 1 Rider,10th,Male,3,Monthly,Married,18308,1,1,6
+15499,972846204,0,43,Tier 1,No Rider,12th,Male,4,Monthly,Married,20841,5,0,1
+15504,972846204,0,43,Tier 2,No Rider,Graduate,Male,3,Semi Annual,Married,26124,3,1,14
+15505,972846204,0,41,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,21473,1,0,8
+15511,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,4,Monthly,Married,18430,1,0,5
+15512,972846204,0,33,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,21878,4,0,3
+15513,972846204,0,37,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Single,18644,4,1,2
+15517,972846204,1,31,Tier 1,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,25714,2,0,7
+15525,972846204,0,49,Tier 1,No Rider,Professional Degree,Female,3,Monthly,Married,18367,9,0,8
+15532,972846204,0,37,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Single,22815,7,0,1
+15533,972846204,0,30,Tier 1,No Rider,12th,Male,3,Monthly,Single,20723,2,1,2
+15534,972846204,0,36,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,22142,4,1,1
+15535,972846204,0,40,Tier 1,GT 1 Rider,12th,Male,1,Semi Annual,Married,24237,3,0,8
+15537,972846204,0,51,Tier 1,GT 1 Rider,Below 10th,Male,3,Annual,Married,35331,5,1,1
+15544,972846204,0,44,Tier 1,No Rider,10th,Male,1,Monthly,Married,20876,6,0,1
+15548,972846204,0,23,Tier 3,No Rider,Professional Degree,Female,4,Monthly,Married,18814,2,1,2
+15550,972846204,0,33,Tier 1,No Rider,Professional Degree,Female,1,Monthly,Married,19312,4,0,1
+15551,972846204,0,45,Tier 1,No Rider,12th,Female,3,Annual,Married,35049,1,1,2
+15553,972846204,0,46,Tier 1,No Rider,12th,Female,5,Quaterlty,Single,21769,2,1,2
+15557,972846204,0,35,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,20724,2,0,8
+15558,972846204,0,50,Tier 1,No Rider,Graduate,Female,3,Monthly,Married,19211,2,0,2
+15559,972846204,0,40,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21377,3,0,8
+15566,972846204,0,40,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,19069,1,0,1
+15567,972846204,0,41,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,26435,2,0,15
+15568,972846204,0,36,Tier 3,No Rider,Graduate,Female,3,Quaterlty,Married,20148,2,0,3
+15569,972846204,0,38,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21768,4,0,1
+15572,972846204,0,39,Tier 1,No Rider,12th,Female,4,Semi Annual,Married,23756,4,1,1
+15574,972846204,0,38,Tier 1,No Rider,12th,Female,3,Monthly,Married,19936,2,0,8
+15578,972846204,1,36,Tier 1,GT 1 Rider,12th,Male,5,Quaterlty,Married,21440,7,1,3
+15585,972846204,0,26,Tier 2,No Rider,Graduate,Male,1,Quaterlty,Married,21206,2,0,1
+15588,972846204,0,51,Tier 1,No Rider,Graduate,Female,4,Semi Annual,Married,29269,6,0,2
+15590,972846204,0,35,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,21433,2,0,8
+15592,972846204,0,50,Tier 1,No Rider,Graduate,Female,4,Annual,Married,29966,3,1,3
+15594,972846204,0,37,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,22842,7,0,1
+15598,972846204,0,39,Tier 2,No Rider,Graduate,Male,3,Quaterlty,Married,20735,8,0,3
+15599,972846204,0,30,Tier 1,GT 1 Rider,12th,Male,4,Quaterlty,Married,20187,2,1,1
+15601,972846204,0,33,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21470,1,0,2
+15602,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21476,2,0,1
+15603,972846204,0,50,Tier 1,No Rider,12th,Female,3,Monthly,Married,18587,5,1,3
+15606,972846204,0,50,Tier 1,No Rider,Graduate,Male,3,Annual,Single,31379,5,0,1
+15609,972846204,0,34,Tier 3,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21368,2,1,2
+15611,972846204,0,45,Tier 1,1 Rider,Graduate,Female,3,Monthly,Married,19195,5,1,3
+15613,972846204,0,39,Tier 1,No Rider,12th,Female,3,Monthly,Married,19306,8,0,1
+15616,972846204,1,33,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,17393,2,0,1
+15619,972846204,0,35,Tier 1,No Rider,12th,Male,4,Quaterlty,Married,19986,2,0,5
+15620,972846204,0,61,Tier 1,No Rider,12th,Male,5,Semi Annual,Married,26883,4,0,1
+15622,972846204,0,38,Tier 2,GT 1 Rider,12th,Male,5,Quaterlty,Married,25525,2,0,2
+15626,972846204,0,36,Tier 2,No Rider,12th,Male,4,Monthly,Single,20930,1,1,2
+15627,972846204,0,44,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Married,23847,2,1,9
+15632,972846204,0,46,Tier 3,No Rider,Graduate,Male,4,Semi Annual,Married,26748,4,0,15
+15633,972846204,1,25,Tier 1,1 Rider,Post Graduate,Male,5,Monthly,Married,17555,2,0,1
+15635,972846204,0,27,Tier 1,No Rider,12th,Male,5,Monthly,Married,18305,2,0,1
+15643,972846204,0,36,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,22883,3,0,1
+15647,972846204,1,37,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,22134,6,1,3
+15651,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Quaterlty,Married,22472,2,1,6
+15652,972846204,0,33,Tier 1,GT 1 Rider,Graduate,Male,5,Semi Annual,Married,25610,4,0,1
+15656,972846204,0,25,Tier 2,1 Rider,12th,Male,3,Monthly,Married,18145,1,0,3
+15657,972846204,1,31,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,18180,7,0,2
+15658,972846204,0,32,Tier 1,GT 1 Rider,10th,Male,3,Quaterlty,Married,24346,2,0,1
+15660,972846204,1,30,Tier 1,GT 1 Rider,Below 10th,Female,5,Monthly,Single,18760,2,0,3
+15665,972846204,0,50,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Single,20507,4,0,1
+15670,972846204,0,31,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,21294,4,0,2
+15672,972846204,0,39,Tier 1,No Rider,12th,Male,5,Quaterlty,Married,21811,4,1,2
+15677,972846204,0,42,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,18289,2,0,1
+15679,972846204,0,54,Tier 3,No Rider,12th,Female,4,Annual,Married,28965,5,1,1
+15684,972846204,1,23,Tier 1,No Rider,12th,Female,3,Monthly,Married,18398,2,1,1
+15686,972846204,0,52,Tier 1,No Rider,10th,Female,3,Semi Annual,Married,29116,3,0,3
+15687,972846204,0,38,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,20189,2,0,1
+15691,972846204,0,38,Tier 1,1 Rider,Professional Degree,Male,3,Quaterlty,Married,20071,3,0,5
+15693,972846204,0,34,Tier 1,No Rider,Graduate,Male,1,Monthly,Married,19143,7,0,8
+15696,972846204,0,47,Tier 3,GT 1 Rider,Graduate,Male,4,Quaterlty,Single,23991,9,0,3
+15698,972846204,0,43,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,21538,6,0,1
+15699,972846204,0,36,Tier 3,No Rider,12th,Male,3,Quaterlty,Married,21762,3,0,2
+15700,972846204,0,39,Tier 3,1 Rider,Post Graduate,Male,3,Monthly,Married,18592,6,0,4
+15705,972846204,0,42,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Single,22870,4,0,2
+15707,972846204,0,31,Tier 1,No Rider,12th,Female,3,Semi Annual,Single,25667,10,0,1
+15709,972846204,1,47,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,24926,5,0,4
+15710,972846204,0,41,Tier 1,No Rider,Graduate,Female,3,Quaterlty,Married,22513,5,0,1
+15711,972846204,0,35,Tier 1,GT 1 Rider,10th,Male,1,Quaterlty,Married,22799,2,0,5
+15716,972846204,0,55,Tier 1,No Rider,12th,Female,3,Quaterlty,Married,22854,5,0,2
+15718,972846204,0,29,Tier 1,No Rider,12th,Female,3,Monthly,Married,19591,2,0,2
+15720,972846204,0,27,Tier 1,GT 1 Rider,12th,Male,3,Quaterlty,Single,20684,2,0,2
+15729,972846204,0,30,Tier 2,No Rider,12th,Male,3,Monthly,Married,19812,2,0,4
+15733,972846204,0,47,Tier 1,No Rider,Graduate,Male,3,Semi Annual,Married,24578,4,0,5
+15736,972846204,0,43,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19968,5,0,1
+15738,972846204,0,47,Tier 1,GT 1 Rider,10th,Female,1,Annual,Married,29225,3,0,3
+15740,972846204,0,30,Tier 1,1 Rider,12th,Male,4,Monthly,Married,18804,2,0,1
+15745,972846204,0,28,Tier 2,No Rider,Graduate,Female,4,Monthly,Married,20774,1,0,8
+15746,972846204,0,40,Tier 1,No Rider,Professional Degree,Male,3,Quaterlty,Married,19902,9,0,3
+15748,972846204,0,29,Tier 1,GT 1 Rider,12th,Female,3,Monthly,Married,18856,2,0,1
+15754,972846204,0,30,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,18062,4,0,2
+15755,972846204,0,38,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,20284,6,1,1
+15757,972846204,0,46,Tier 1,No Rider,Graduate,Female,4,Quaterlty,Married,21906,1,0,4
+15762,972846204,0,49,Tier 2,No Rider,12th,Female,3,Annual,Married,33174,4,0,5
+15763,972846204,0,45,Tier 1,No Rider,Graduate,Male,1,Quaterlty,Married,21033,3,0,3
+15764,972846204,1,35,Tier 3,No Rider,10th,Male,5,Monthly,Married,18307,2,1,4
+15766,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Male,4,Quaterlty,Married,21507,3,0,2
+15767,972846204,0,42,Tier 1,GT 1 Rider,Below 10th,Female,3,Quaterlty,Married,20393,6,0,2
+15768,972846204,0,43,Tier 1,No Rider,12th,Male,3,Semi Annual,Married,29348,10,0,6
+15771,972846204,0,32,Tier 1,No Rider,12th,Female,1,Monthly,Married,19978,9,0,3
+15775,972846204,0,29,Tier 2,GT 1 Rider,Graduate,Male,4,Quaterlty,Married,22834,2,1,1
+15777,972846204,0,40,Tier 3,GT 1 Rider,Graduate,Female,5,Quaterlty,Married,21736,7,0,2
+15778,972846204,0,28,Tier 1,No Rider,10th,Male,3,Monthly,Married,18226,2,0,2
+15779,972846204,0,35,Tier 2,No Rider,Professional Degree,Male,4,Quaterlty,Married,21747,2,1,7
+15782,972846204,0,57,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,21380,5,0,1
+15783,972846204,0,40,Tier 1,No Rider,12th,Male,3,Quaterlty,Married,21151,2,0,8
+15785,972846204,0,59,Tier 1,GT 1 Rider,Graduate,Female,3,Annual,Married,33875,5,1,1
+15786,972846204,1,33,Tier 2,No Rider,Graduate,Female,1,Monthly,Single,18432,4,1,1
+15787,972846204,0,39,Tier 1,No Rider,Graduate,Male,3,Monthly,Married,20771,3,0,1
+15790,972846204,1,28,Tier 2,1 Rider,Post Graduate,Female,4,Monthly,Married,18863,2,0,1
+15793,972846204,0,32,Tier 3,No Rider,12th,Male,3,Monthly,Married,19065,2,1,3
+15798,972846204,0,30,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Married,21373,1,0,1
+15801,972846204,1,29,Tier 1,No Rider,10th,Male,4,Monthly,Married,18367,6,0,1
+15803,972846204,0,36,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21204,2,1,1
+15806,972846204,1,32,Tier 2,GT 1 Rider,Below 10th,Male,3,Quaterlty,Married,21617,2,1,1
+15815,972846204,0,43,Tier 3,No Rider,Graduate,Male,4,Quaterlty,Single,20332,2,0,4
+15816,972846204,0,32,Tier 3,No Rider,12th,Female,3,Semi Annual,Married,27031,5,0,5
+15817,972846204,0,55,Tier 1,No Rider,12th,Female,3,Quaterlty,Single,20440,7,1,2
+15818,972846204,0,25,Tier 1,No Rider,Graduate,Male,4,Quaterlty,Single,20617,2,0,2
+15822,972846204,0,26,Tier 1,1 Rider,Post Graduate,Female,3,Monthly,Married,18187,5,0,2
+15824,972846204,0,26,Tier 1,No Rider,Professional Degree,Male,3,Monthly,Married,19977,7,1,1
+15825,972846204,0,48,Tier 1,No Rider,12th,Male,3,Semi Annual,Single,24633,3,0,13
+15828,972846204,0,32,Tier 1,GT 1 Rider,Graduate,Male,3,Monthly,Married,19067,1,0,2
+15834,972846204,0,23,Tier 1,No Rider,Graduate,Male,3,Monthly,Single,19375,1,0,2
+15839,972846204,0,33,Tier 1,GT 1 Rider,12th,Male,4,Monthly,Married,18269,1,0,3
+15840,972846204,0,40,Tier 1,No Rider,Graduate,Male,3,Quaterlty,Single,20108,8,0,2
+15841,972846204,0,39,Tier 1,No Rider,12th,Female,5,Semi Annual,Married,29206,4,0,2
+15843,972846204,0,38,Tier 1,No Rider,Graduate,Female,1,Semi Annual,Married,29744,2,1,7
+15844,972846204,0,26,Tier 1,GT 1 Rider,Professional Degree,Female,3,Quaterlty,Married,20907,1,1,1
+15847,972846204,0,22,Tier 1,GT 1 Rider,12th,Male,3,Monthly,Single,18380,2,1,2
+15848,972846204,0,40,Tier 3,No Rider,Graduate,Male,3,Annual,Single,35431,3,0,2
+15850,972846204,0,37,Tier 1,GT 1 Rider,12th,Female,4,Semi Annual,Married,23644,1,0,4
+15851,972846204,0,37,Tier 2,No Rider,Graduate,Female,3,Quaterlty,Married,21131,8,0,1
+15853,972846204,1,30,Tier 1,No Rider,12th,Male,3,Monthly,Married,20787,10,1,3
+15857,972846204,0,35,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,22712,2,0,2
+15858,972846204,0,37,Tier 3,GT 1 Rider,Below 10th,Male,5,Quaterlty,Married,21406,2,0,12
+15862,972846204,0,39,Tier 1,GT 1 Rider,Graduate,Female,3,Quaterlty,Married,21343,2,0,2
+15864,972846204,0,37,Tier 1,GT 1 Rider,Below 10th,Female,4,Quaterlty,Married,22652,5,0,1
+15869,972846204,0,36,Tier 1,No Rider,Graduate,Female,5,Monthly,Married,18977,2,0,2
+15870,972846204,0,30,Tier 1,No Rider,Professional Degree,Male,4,Quaterlty,Married,20025,5,1,1
+15871,972846204,0,30,Tier 1,No Rider,12th,Female,4,Monthly,Single,19785,2,0,1
+15875,972846204,0,27,Tier 1,GT 1 Rider,Professional Degree,Female,4,Monthly,Single,18966,1,0,1
+15880,972846204,0,35,Tier 1,No Rider,12th,Male,1,Quaterlty,Married,20404,3,0,2
